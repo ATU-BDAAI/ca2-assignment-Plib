@@ -5,63 +5,63 @@
         "keywords": [
             {
                 "word": "trip",
-                "score": 0.3279680246763151
+                "score": 0.3205132320860016
             },
             {
                 "word": "dataset",
-                "score": 0.24597601850723633
+                "score": 0.24038492406450118
             },
             {
                 "word": "data",
-                "score": 0.20498001542269695
-            },
-            {
-                "word": "duration",
-                "score": 0.16398401233815754
+                "score": 0.20032077005375098
             },
             {
                 "word": "fare",
-                "score": 0.16398401233815754
+                "score": 0.20032077005375098
+            },
+            {
+                "word": "duration",
+                "score": 0.1602566160430008
             },
             {
                 "word": "record",
-                "score": 0.16398401233815754
+                "score": 0.1602566160430008
             },
             {
                 "word": "taxi",
-                "score": 0.16398401233815754
+                "score": 0.1602566160430008
             },
             {
                 "word": "2025",
-                "score": 0.12298800925361816
+                "score": 0.12019246203225059
             },
             {
                 "word": "24",
-                "score": 0.12298800925361816
+                "score": 0.12019246203225059
             },
             {
                 "word": "base",
-                "score": 0.12298800925361816
+                "score": 0.12019246203225059
             },
             {
                 "word": "databricks",
-                "score": 0.12298800925361816
+                "score": 0.12019246203225059
             },
             {
                 "word": "distance",
-                "score": 0.12298800925361816
+                "score": 0.12019246203225059
             },
             {
                 "word": "feature",
-                "score": 0.12298800925361816
+                "score": 0.12019246203225059
             },
             {
                 "word": "hypothesis",
-                "score": 0.12298800925361816
+                "score": 0.12019246203225059
             },
             {
                 "word": "id",
-                "score": 0.12298800925361816
+                "score": 0.12019246203225059
             }
         ],
         "named_entities": [
@@ -150,6 +150,10 @@
                 "label": "CARDINAL"
             },
             {
+                "text": "nael",
+                "label": "PERSON"
+            },
+            {
                 "text": "1",
                 "label": "CARDINAL"
             },
@@ -168,6 +172,10 @@
             {
                 "text": "4",
                 "label": "CARDINAL"
+            },
+            {
+                "text": "nif",
+                "label": "PERSON"
             },
             {
                 "text": "Nl",
@@ -222,7 +230,7 @@
                 "label": "GPE"
             },
             {
-                "text": "2 15",
+                "text": "2 1",
                 "label": "DATE"
             },
             {
@@ -283,83 +291,90 @@
             }
         ],
         "key_phrases": [
-            "a scalable pipeline",
-            "pa nt one me ancl dataset ne\ntransportation optimisation",
-            "1\npredictive analytics",
-            "pickup timestamp",
-            "taxi trip records",
-            "trip base",
-            "an roc-auc",
-            "fare_amount base fare",
-            "data quali",
-            "the pipeline",
-            "ti t",
-            ")\nmachine processing limits",
-            "cleaning\ntaxi records",
-            "distance and temporal features",
-            "the objective",
-            "24 million records",
-            "this project",
-            "random forest ensembles",
-            "fleet management",
-            "the study",
-            "i. introduction",
-            "lincar baselines",
-            "a pre-",
-            "long mins",
-            "rare\nlarge-scale mobility datasets",
-            "pickup zone id\ndolocationid drop",
-            "da ia",
-            "dictable linear relationship",
-            "distributed processing",
-            "statistical svunine",
-            "the dataset",
-            "extreme outliers",
-            "4 istical pruning",
-            "onif.\nenvironments",
-            "three predictive tasks",
-            "yellow 4- data ingestion",
-            "24 “feature.—~—~=~”~*c«~@deseription ss\nmillion records",
-            "trip duration",
-            "4 yp",
-            "the implementation",
-            "zone id",
-            "ensemble methods",
-            "pypothesis % rps",
-            "the\n24 million row dataset",
-            "that\nduration",
-            "apache spark",
-            "lincar models",
-            "distributed processing and non-\nlinear modelling",
-            "nyc yellow taxis",
-            "the efficacy",
-            "a comparative analysis",
-            "passenger_count number",
-            "the databricks environ-",
-            "duration regression",
-            "urban mobility",
-            "large-scale nyc taxi trip\ndata",
-            "the nyc taxi & limousine commission ment",
-            "an initia 1 analysis",
-            "dataset description",
-            "key features",
-            "tomas wynne\ncomputing department",
-            "spark’s native parquet reader",
-            "six parquet files",
-            "trip outcomes",
-            "abstract\nthis report",
-            "dropoff timestamp\ne",
-            "a rich vaymnent 4 ss oe",
-            "duration prediction",
-            "trip distance",
             "sourced data",
-            "three primary hypotheses",
-            "ing pyspark",
-            "binary trip-length classification",
-            "a id tif",
-            "six months",
+            "key features",
+            "pickup timestamp",
+            "fleet management ne",
+            "the objective",
+            "apache spark",
+            "passenger_count number",
+            "trip outcomes",
             "travel behaviour",
-            "atlantic technological university"
+            "random forest ensembles",
+            "lincar baselines",
+            "theat\nduration",
+            "trip distance",
+            "24 “feature.—~—~”~c«i@description ss\nmillion records",
+            "pypothesis % ips",
+            "dataset description",
+            "distributed processing",
+            "distributed processing and non-\nlinear modelling",
+            "ti df , t d\nforecasting",
+            "this project",
+            "ensemble methods",
+            "atlantic technological university",
+            "three primary hypotheses",
+            "ins\nenvironments",
+            "an initia 1 analysis",
+            "zone id",
+            "ne alive fare amounts",
+            "large-scale nyc taxi trip\ndata",
+            "i. introduction",
+            "nyc yellow taxis",
+            "data quali",
+            "4 yp",
+            "the dataset",
+            "the databricks environ-",
+            "cleaning\ntaxi records",
+            "a scalable pipeline",
+            "a rich saymnent",
+            "the pipeline",
+            "transportation optimisation",
+            "a ‘id tif",
+            "24 million records",
+            "six parquet files",
+            "city icant heise",
+            "the\n24 million row dataset",
+            "duration regression",
+            ")\nmachine processing limits",
+            "six months",
+            "da ia",
+            "the efficacy",
+            "pickup zone id\ndolocationid drop",
+            "(2 1 ) p",
+            "binary trip-length classification",
+            "trip duration",
+            "taxi trip records",
+            "congestion patterns",
+            "abstract\nthis report",
+            "duration prediction",
+            "rare\nlarge-scale mobility datasets",
+            "the nyc taxi & limousine commission ment",
+            "trip base",
+            "a pre-",
+            "ing pyspark",
+            "1\npredictive analytics",
+            "a comparative analysis",
+            "urban mobility",
+            "4 istical pruning",
+            "spark’s native parquet reader",
+            "the study",
+            "extreme outliers",
+            "the implementation",
+            "long mins",
+            "fare_amount base fare",
+            "distance and temporal features",
+            "statistical srunine",
+            "three predictive tasks",
+            "4 ss oe",
+            "witl q ai t",
+            "tomas wynne\ncomputing department",
+            "an roc-auc",
+            "yellow 4- data ingestion",
+            "pricing dynamics",
+            "lincar models",
+            "dictable linear relationship",
+            "dropoff timestamp\ne"
         ],
         "region_counts": {
             "Caption": 5,
@@ -379,7 +394,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "text": "A Phase Mean = 36.80\n8 Phase Mean = 80.00\n",
                 "bounding_box": {
                     "x": 1095,
                     "y": 1886,
@@ -389,7 +404,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "= A Phase\n—o=—B Phase\n",
+                "text": "== A Phase\n—o=—B Phase\n",
                 "bounding_box": {
                     "x": 1175,
                     "y": 1791,
@@ -409,7 +424,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "om A Phase\n—c=— B Phase\n",
+                "text": "== A Phase\n—=— B Phase\n",
                 "bounding_box": {
                     "x": 1153,
                     "y": 1344,
@@ -419,7 +434,7 @@
             },
             {
                 "region_type": "Body Text",
-                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 SO |\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n9 1 APhas\n44 | 8 Pha:\n34 t=\n",
                 "bounding_box": {
                     "x": 457,
                     "y": 1113,
@@ -439,7 +454,7 @@
             },
             {
                 "region_type": "Title",
-                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "text": "Behav, Sci. 2025, 15, 870 8 of 21\n",
                 "bounding_box": {
                     "x": 85,
                     "y": 85,
@@ -455,63 +470,63 @@
         "keywords": [
             {
                 "word": "trip",
-                "score": 0.44237395520380884
+                "score": 0.4432422071779362
             },
             {
                 "word": "feature",
-                "score": 0.22118697760190442
+                "score": 0.2216211035889681
             },
             {
                 "word": "00",
-                "score": 0.17694958208152353
+                "score": 0.1772968828711745
             },
             {
                 "word": "duration",
-                "score": 0.17694958208152353
+                "score": 0.1772968828711745
             },
             {
                 "word": "minute",
-                "score": 0.17694958208152353
+                "score": 0.1772968828711745
             },
             {
                 "word": "drop",
-                "score": 0.13271218656114264
+                "score": 0.13297266215338088
             },
             {
                 "word": "engineering",
-                "score": 0.13271218656114264
+                "score": 0.13297266215338088
             },
             {
                 "word": "fare",
-                "score": 0.13271218656114264
+                "score": 0.13297266215338088
             },
             {
                 "word": "model",
-                "score": 0.13271218656114264
+                "score": 0.13297266215338088
             },
             {
                 "word": "outlier",
-                "score": 0.13271218656114264
+                "score": 0.13297266215338088
             },
             {
                 "word": "record",
-                "score": 0.13271218656114264
+                "score": 0.13297266215338088
             },
             {
                 "word": "timestamp",
-                "score": 0.13271218656114264
+                "score": 0.13297266215338088
             },
             {
                 "word": "15",
-                "score": 0.08847479104076177
+                "score": 0.08864844143558726
             },
             {
                 "word": "binary",
-                "score": 0.08847479104076177
+                "score": 0.08864844143558726
             },
             {
                 "word": "convert",
-                "score": 0.08847479104076177
+                "score": 0.08864844143558726
             }
         ],
         "named_entities": [
@@ -524,11 +539,7 @@
                 "label": "ORG"
             },
             {
-                "text": "rani",
-                "label": "PERSON"
-            },
-            {
-                "text": "Parquet Files\nvisualizations",
+                "text": "Parquet Files",
                 "label": "PERSON"
             },
             {
@@ -584,10 +595,6 @@
                 "label": "CARDINAL"
             },
             {
-                "text": "Fig",
-                "label": "PERSON"
-            },
-            {
                 "text": "1",
                 "label": "CARDINAL"
             },
@@ -602,6 +609,10 @@
             {
                 "text": "Databricks",
                 "label": "GPE"
+            },
+            {
+                "text": "leeactte toa aig date",
+                "label": "ORG"
             },
             {
                 "text": "3",
@@ -681,77 +692,76 @@
             }
         ],
         "key_phrases": [
-            "the difference",
-            "extreme right- reeset toa aig date feature engineering",
-            "11 irrelevant columns",
-            "unique\ntrip records",
-            "fare structure",
-            "target variable",
-            "modem machine learning pipeline architecture",
-            "5) noise reduction",
-            "a\nture",
-            "in-\ncreased morning and evening traffic",
-            "sepa-\n» timestamp granularity",
-            "rani parquet files\nvisualizations",
-            "five distinct stages",
-            "2) validity filtering",
-            "the mean",
-            "three stan-\ndard deviations",
-            "spark rate modelling notebooks",
-            "1) duplication removal",
-            "only records",
-            "a | parquet files",
-            "the original tpep_pickup_datetime",
-            "this method",
-            "temporal pruning",
-            "categorical flags",
-            "demand periods",
-            "the 3-sigma rule",
-            "dimension- - és_weekend",
-            "hypothesis\n¢ trip duration",
-            "a\nunix timestamps",
             "daily demand cycles",
-            "the databricks environment",
-            "the extremely large dataset size",
-            "influence both trip duration",
-            "apache spark",
-            "extreme outliers",
-            "the cleaned and feature enhanced dataset",
-            "no duplicates",
-            "(e.g., ratecodeid, airport_fee",
-            "a 3-\nsigma rule",
-            "|\npandas dataframe",
-            "memory usage",
-            "the pipeline",
-            "less than 15 minutes",
-            "a duration",
-            "databricks server-less caching overflow",
-            "= pickup_hour",
-            "one dataframe",
-            "sat-\nality",
-            "a hard\ncut-off",
+            "spark rate modelling notebooks",
             "the regression coefficients",
-            "the underlying data distribu-",
-            "a 1% sample",
             "functions timestamps",
-            "16:00-19:00, typically periods",
-            "the trip_duration fea-",
-            "b. feature engineering",
-            "15 minutes",
-            "a representative distribution",
             "threshold-based approach",
-            "a normal dis-",
-            "two binary indicators",
-            "z<pit3e fig",
-            "pickup_month features",
-            "trip dis-\ntances",
-            "drop-off and pick-up times",
-            "taxi trip distributions",
-            "0.01 minutes",
-            "e.g., cross-state trips",
+            "a 1% sample",
+            "the underlying data distribu-",
+            "unique\ntrip records",
+            "apache spark",
+            "one dataframe",
+            "leeactte toa aig date feature engineering",
+            "extreme outliers",
+            "(e.g., ratecodeid, airport_fee",
+            "16:00-19:00, typically periods",
+            "ingestion\nthe cleaning process",
             "a binary label",
+            "two binary indicators",
+            "demand periods",
             "a delta table",
-            "ingestion\nthe cleaning process"
+            "a 3-\nsigma rule",
+            "no duplicates",
+            "hypothesis\n¢ trip duration",
+            "trip dis-\ntances",
+            "2) validity filtering",
+            "three stan-\ndard deviations",
+            "e.g., cross-state trips",
+            "the trip_duration fea-",
+            "15 minutes",
+            "b. feature engineering",
+            "five distinct stages",
+            "databricks server-less caching overflow",
+            "a normal dis-",
+            "0.01 minutes",
+            "a\nture",
+            "a\nunix timestamps",
+            "vat parquet files\nvisualizations",
+            "pickup_month features",
+            "drop-off and pick-up times",
+            "dimension- - is_weekend",
+            "fare structure",
+            "sepa-\n» timestamp granularity",
+            "a hard\ncut-off",
+            "target variable",
+            "less than 15 minutes",
+            "the pipeline",
+            "sat-\nality",
+            "1) duplication removal",
+            "in-\ncreased morning and evening traffic",
+            "the extremely large dataset size",
+            "categorical flags",
+            "the cleaned and feature enhanced dataset",
+            "a | parquet files",
+            "taxi trip distributions",
+            "extreme right-",
+            "memory usage",
+            "the databricks environment",
+            "the original tpep_pickup_datetime",
+            "5) noise reduction",
+            "influence both trip duration",
+            "a representative distribution",
+            "z<pt3o fig",
+            "only records",
+            "the difference",
+            "the mean",
+            "this method",
+            "|\npandas dataframe",
+            "temporal pruning",
+            "the 3-sigma rule",
+            "a duration",
+            "modem machine learning pipeline architecture"
         ],
         "region_counts": {
             "Caption": 5,
@@ -771,7 +781,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "text": "A Phase Mean = 36.80\n8 Phase Mean = 80.00\n",
                 "bounding_box": {
                     "x": 1095,
                     "y": 1886,
@@ -781,7 +791,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "= A Phase\n—o=—B Phase\n",
+                "text": "== A Phase\n—o=—B Phase\n",
                 "bounding_box": {
                     "x": 1175,
                     "y": 1791,
@@ -801,7 +811,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "om A Phase\n—c=— B Phase\n",
+                "text": "== A Phase\n—=— B Phase\n",
                 "bounding_box": {
                     "x": 1153,
                     "y": 1344,
@@ -811,7 +821,7 @@
             },
             {
                 "region_type": "Body Text",
-                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 SO |\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n9 1 APhas\n44 | 8 Pha:\n34 t=\n",
                 "bounding_box": {
                     "x": 457,
                     "y": 1113,
@@ -831,7 +841,7 @@
             },
             {
                 "region_type": "Title",
-                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "text": "Behav, Sci. 2025, 15, 870 8 of 21\n",
                 "bounding_box": {
                     "x": 85,
                     "y": 85,
@@ -847,63 +857,63 @@
         "keywords": [
             {
                 "word": "model",
-                "score": 0.3656000086660744
+                "score": 0.3674234614174767
             },
             {
                 "word": "linear",
-                "score": 0.24373333911071626
+                "score": 0.24494897427831783
             },
             {
                 "word": "feature",
-                "score": 0.20311111592559689
+                "score": 0.2041241452319315
             },
             {
                 "word": "pipeline",
-                "score": 0.20311111592559689
+                "score": 0.2041241452319315
             },
             {
                 "word": "duration",
-                "score": 0.1624888927404775
-            },
-            {
-                "word": "ensure",
-                "score": 0.1624888927404775
+                "score": 0.16329931618554522
             },
             {
                 "word": "trip",
-                "score": 0.1624888927404775
+                "score": 0.16329931618554522
+            },
+            {
+                "word": "ensure",
+                "score": 0.12247448713915891
             },
             {
                 "word": "forest",
-                "score": 0.12186666955535813
+                "score": 0.12247448713915891
             },
             {
                 "word": "high",
-                "score": 0.12186666955535813
+                "score": 0.12247448713915891
             },
             {
                 "word": "ml",
-                "score": 0.12186666955535813
+                "score": 0.12247448713915891
             },
             {
                 "word": "path",
-                "score": 0.12186666955535813
+                "score": 0.12247448713915891
             },
             {
                 "word": "regression",
-                "score": 0.12186666955535813
+                "score": 0.12247448713915891
             },
             {
                 "word": "rfc",
-                "score": 0.12186666955535813
+                "score": 0.12247448713915891
             },
             {
                 "word": "taxi",
-                "score": 0.12186666955535813
+                "score": 0.12247448713915891
             },
             {
                 "word": "test",
-                "score": 0.12186666955535813
+                "score": 0.12247448713915891
             }
         ],
         "named_entities": [
@@ -966,6 +976,10 @@
             {
                 "text": "Pipeline API",
                 "label": "PERSON"
+            },
+            {
+                "text": "Logistic Regression",
+                "label": "WORK_OF_ART"
             },
             {
                 "text": "two",
@@ -1053,90 +1067,90 @@
             }
         ],
         "key_phrases": [
-            "the effectiveness",
-            "the nyc taxi\necosystem",
-            "a maxdepth",
-            "the\n2) forest path",
-            "each pipeline",
-            "trip_class label",
-            "a modern ensemble method",
-            "taxi trips",
-            "a linear, additive relationship",
-            "a baseline model",
-            "” durations",
-            "the pyspark.ml",
-            "300 maxbins\nraw vectors",
-            "tree-based models",
-            "the stability",
-            "the “linearity",
-            "iterative model testing",
-            "categorical in- ship",
-            "its high interpretabil-\nity",
-            "a probabilistic interpretation",
-            "trip length",
-            "«_ logistic regression",
-            "complex ensemble\napproach",
-            "explicit variable deletion",
-            "the model",
-            "each evaluation",
-            "urban\ntraffic patterns",
-            "the regressionevaluator",
-            "an en-\nsemble alternative",
-            "the predictability",
-            "memory constraints",
-            "the classes",
-            "50 trees",
-            "a traditional linear overflow",
-            "learning experiments",
-            "the\n1) regression",
-            "random forest regressor",
             "location-specific traffic density",
-            "the rfc",
-            "d. predictive modeling implementation test",
-            "feature magnitudes",
-            "a critical technical",
-            "(hypothesis driver node",
-            "this setting",
-            "a benchmark",
-            "trip duration",
-            "the modeling phase",
-            "binary classification",
+            "its high interpretabil-\nity",
             "(hypoth-\nsion models",
-            "1) linear path",
-            "the distributed\ncluster",
-            "memory\nand fare amounts",
-            "the high volume",
-            "the\npyspark.ml",
-            "two distinct feature-processing paths",
-            "24 million\nthree primary hypotheses",
+            "50 trees",
+            "the effectiveness",
+            "3\ne linear regression",
+            "a probabilistic interpretation",
+            "driver-node\ncache overflow",
+            "« logistic regression",
+            "a baseline model",
+            "the nyc taxi\necosystem",
+            "\"long” durations",
             "the\nrelationship",
-            "the databricks",
+            "the target variables",
+            "taxi trips",
+            "two distinct feature-processing paths",
+            "the stability",
+            "an en-\nsemble alternative",
+            "modular notebooks",
+            "a linear, additive relationship",
+            "each unique taxi zone",
+            "memory\nand fare amounts",
+            "categorical in- ship",
+            "binary classification",
+            "tree-based models",
+            ") linear path",
+            "the regressionevaluator",
+            "the classes",
+            "a series",
+            "d. predictive modeling implementation test",
+            "the predictability",
             "variable deletion",
+            "the model",
+            "a benchmark",
+            "the gradient descent",
+            "a traditional linear overflow",
             "the high cardinality",
             "robust generalization",
-            "used onehotencoder",
-            "3\ne linear regression",
-            "these\ncomplex feature interactions",
-            "the target variables",
-            "the\nc. modelling pipeline architecture",
-            "trip duration databricks environment",
-            "the gradient descent",
-            "all models",
-            "pipeline api",
-            "modular notebooks",
+            "300 maxbins\nraw vectors",
             "2.. ml pipeline architecture",
-            "driver-node\ncache overflow",
-            "a held-out 20%",
-            "each unique taxi zone",
-            "categorical choice",
-            "a distinct split point",
+            "memory constraints",
+            "complex ensemble\napproach",
+            "a modern ensemble method",
+            "¢ random forest regressor",
             "did not e random forest classifier",
-            "the training",
-            "a series",
-            "class member-\nstandardscaler",
+            "the\nc. modelling pipeline architecture",
+            "trip_class label",
+            "the rfc",
+            "trip duration databricks environment",
+            "used onehotencoder",
+            "the modeling phase",
+            "a held-out 20%",
+            "each pipeline",
+            "and notebook modularization",
+            "all models",
+            "learning experiments",
             "distance and time changes",
+            "the “linearity",
+            "a distinct split point",
+            "trip duration",
+            "categorical choice",
+            "a critical technical",
+            "the databricks",
+            "the pyspark.ml",
+            "pipeline api",
+            "the training",
+            "urban\ntraffic patterns",
+            "each evaluation",
+            "the high volume",
+            "this setting",
+            "iterative model testing",
+            "feature magnitudes",
+            "trip length",
             "a linear decision",
-            "and notebook modularization"
+            "24 million\nthree primary hypotheses",
+            "(hypothesis driver node",
+            "class member-\nstandardscaler",
+            "the\npyspark.ml",
+            "the\n2) forest path",
+            "these\ncomplex feature interactions",
+            "the distributed\ncluster",
+            "a maxdepth",
+            "explicit variable deletion",
+            "the\n1) regression"
         ],
         "region_counts": {
             "Caption": 5,
@@ -1156,7 +1170,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "text": "A Phase Mean = 36.80\n8 Phase Mean = 80.00\n",
                 "bounding_box": {
                     "x": 1095,
                     "y": 1886,
@@ -1166,7 +1180,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "= A Phase\n—o=—B Phase\n",
+                "text": "== A Phase\n—o=—B Phase\n",
                 "bounding_box": {
                     "x": 1175,
                     "y": 1791,
@@ -1186,7 +1200,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "om A Phase\n—c=— B Phase\n",
+                "text": "== A Phase\n—=— B Phase\n",
                 "bounding_box": {
                     "x": 1153,
                     "y": 1344,
@@ -1196,7 +1210,7 @@
             },
             {
                 "region_type": "Body Text",
-                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 SO |\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n9 1 APhas\n44 | 8 Pha:\n34 t=\n",
                 "bounding_box": {
                     "x": 457,
                     "y": 1113,
@@ -1216,7 +1230,7 @@
             },
             {
                 "region_type": "Title",
-                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "text": "Behav, Sci. 2025, 15, 870 8 of 21\n",
                 "bounding_box": {
                     "x": 85,
                     "y": 85,
@@ -1231,64 +1245,64 @@
         "page": 4,
         "keywords": [
             {
-                "word": "duration",
-                "score": 0.2670666578007805
-            },
-            {
                 "word": "trip",
-                "score": 0.2289142781149547
+                "score": 0.29095718698132317
             },
             {
-                "word": "feature",
-                "score": 0.19076189842912894
-            },
-            {
-                "word": "linear",
-                "score": 0.19076189842912894
-            },
-            {
-                "word": "model",
-                "score": 0.19076189842912894
+                "word": "duration",
+                "score": 0.2545875386086578
             },
             {
                 "word": "prediction",
-                "score": 0.19076189842912894
+                "score": 0.21821789023599236
             },
             {
-                "word": "regression",
-                "score": 0.19076189842912894
+                "word": "feature",
+                "score": 0.181848241863327
+            },
+            {
+                "word": "linear",
+                "score": 0.181848241863327
+            },
+            {
+                "word": "model",
+                "score": 0.181848241863327
             },
             {
                 "word": "analysis",
-                "score": 0.15260951874330314
+                "score": 0.14547859349066158
+            },
+            {
+                "word": "classification",
+                "score": 0.14547859349066158
             },
             {
                 "word": "fare",
-                "score": 0.15260951874330314
+                "score": 0.14547859349066158
             },
             {
-                "word": "forest",
-                "score": 0.15260951874330314
-            },
-            {
-                "word": "random",
-                "score": 0.15260951874330314
+                "word": "regression",
+                "score": 0.14547859349066158
             },
             {
                 "word": "rf",
-                "score": 0.15260951874330314
+                "score": 0.14547859349066158
+            },
+            {
+                "word": "table",
+                "score": 0.14547859349066158
             },
             {
                 "word": "traffic",
-                "score": 0.15260951874330314
+                "score": 0.14547859349066158
             },
             {
                 "word": "achieve",
-                "score": 0.11445713905747736
+                "score": 0.10910894511799618
             },
             {
                 "word": "auc",
-                "score": 0.11445713905747736
+                "score": 0.10910894511799618
             }
         ],
         "named_entities": [
@@ -1305,7 +1319,7 @@
                 "label": "ORG"
             },
             {
-                "text": "0",
+                "text": "60",
                 "label": "CARDINAL"
             },
             {
@@ -1317,39 +1331,63 @@
                 "label": "CARDINAL"
             },
             {
+                "text": "0",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "0",
+                "label": "CARDINAL"
+            },
+            {
                 "text": "8",
                 "label": "CARDINAL"
             },
             {
-                "text": "Boas",
+                "text": "98",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "8",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Fog 0 OT g5D GY Sy",
                 "label": "ORG"
             },
             {
-                "text": "2",
+                "text": "9",
                 "label": "CARDINAL"
             },
             {
-                "text": "Stk See ee Bree\ne",
-                "label": "FAC"
+                "text": "VaR S30",
+                "label": "WORK_OF_ART"
             },
             {
-                "text": "Feature Correlation:",
+                "text": "TON",
                 "label": "ORG"
             },
             {
-                "text": "30",
-                "label": "CARDINAL"
-            },
-            {
-                "text": "7s",
-                "label": "CARDINAL"
-            },
-            {
-                "text": "Mey",
+                "text": "Siete",
                 "label": "PERSON"
             },
             {
+                "text": "CAE",
+                "label": "ORG"
+            },
+            {
+                "text": "Tae -20 : Seo F",
+                "label": "PERSON"
+            },
+            {
+                "text": "0",
+                "label": "CARDINAL"
+            },
+            {
                 "text": "40",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "2 © ©",
                 "label": "CARDINAL"
             },
             {
@@ -1405,7 +1443,15 @@
                 "label": "CARDINAL"
             },
             {
-                "text": "Linear Regression",
+                "text": "Li",
+                "label": "PERSON"
+            },
+            {
+                "text": "RF",
+                "label": "ORG"
+            },
+            {
+                "text": "ie iehlichte d table",
                 "label": "ORG"
             },
             {
@@ -1413,12 +1459,12 @@
                 "label": "CARDINAL"
             },
             {
-                "text": "Random Forest",
-                "label": "ORG"
+                "text": "2",
+                "label": "CARDINAL"
             },
             {
-                "text": "RF",
-                "label": "ORG"
+                "text": "18 ii",
+                "label": "CARDINAL"
             },
             {
                 "text": "0.003",
@@ -1433,8 +1479,8 @@
                 "label": "ORG"
             },
             {
-                "text": "Linear Regression 733",
-                "label": "WORK_OF_ART"
+                "text": "Linear Regression 7.33",
+                "label": "ORG"
             },
             {
                 "text": "4.86",
@@ -1445,7 +1491,15 @@
                 "label": "ORG"
             },
             {
-                "text": "5.70",
+                "text": "5.70 3.60",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "0.812",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "3",
                 "label": "CARDINAL"
             },
             {
@@ -1457,12 +1511,8 @@
                 "label": "CARDINAL"
             },
             {
-                "text": "D.",
-                "label": "NORP"
-            },
-            {
-                "text": "3",
-                "label": "CARDINAL"
+                "text": "F",
+                "label": "PRODUCT"
             },
             {
                 "text": "0.690",
@@ -1481,8 +1531,8 @@
                 "label": "CARDINAL"
             },
             {
-                "text": "erat Congeation",
-                "label": "ORG"
+                "text": "0.053",
+                "label": "CARDINAL"
             },
             {
                 "text": "Model Accuracy",
@@ -1493,12 +1543,24 @@
                 "label": "CARDINAL"
             },
             {
-                "text": "Logistic Regression",
-                "label": "WORK_OF_ART"
+                "text": "0.860",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "0.931",
+                "label": "CARDINAL"
             },
             {
                 "text": "Random Forest",
                 "label": "ORG"
+            },
+            {
+                "text": "0877",
+                "label": "DATE"
+            },
+            {
+                "text": "0.942",
+                "label": "CARDINAL"
             },
             {
                 "text": "NYC",
@@ -1522,88 +1584,91 @@
             }
         ],
         "key_phrases": [
-            "; 8 *e boas poo” ora",
-            "traffic congestion levels",
-            "the base",
-            "the rf classifier",
-            "the © account",
-            "significantly\nrandom forest",
-            "the binary classification task",
-            "classification\ntance",
-            "key observations",
-            "nificant improvement",
-            "the number",
-            "linear assumptions",
-            "a quarter",
-            "some zero/negative values",
-            "urban traffic",
-            "a near-perfect roc-\nfares",
-            "30\ncorrelation",
-            "a\ntrip",
-            "linear regression",
-            "the limitations",
-            "the class distribution",
-            "feature importance",
-            "a sig- d. trip classification",
-            "a cleaner distribution",
-            "the rush_hour feature",
-            "traffic °\ndensity",
-            "table insight",
-            "residual plot",
-            "the raw elapsed time",
-            "wip duration",
             "the 0.690",
-            "the feature importance analysis",
-            "more\n“linear regression",
-            "5552.52 0.900\nb. duration prediction",
-            "1% prediction sample",
-            "a critical role",
-            "4\niv. results",
-            "model rmse mae r",
-            "trip duration",
-            "0.860 08570931\nfare prediction",
-            "duration prn",
-            "variance relative",
-            "re- ips",
-            "an r",
-            "dis- auc",
             "3. residual plot",
-            "gradient-\nbased learning",
-            "random forest",
-            "ea °\nhigh degree",
-            "erat congeation patterns",
-            "external factors",
-            "a 1% sample",
-            "eda) findings",
-            "the application",
-            "fare prediction performance\ning",
-            "stk see ee bree\ne feature correlation",
-            "non-physical ourees",
-            "primary driver",
-            "3.60 0.812\nthe rf model",
-            "the trip",
-            "logistic regression",
-            "a proxy",
-            "the data",
-            "it\ne noise reduction",
-            "all regression tasks",
-            "mey ree",
-            "the baseline",
-            "a no-\nthe comparison",
-            "duration\nrule",
-            "a strong linear",
-            "_ 2 gnaw tka a",
-            "model rmse mae",
-            "the 24-million- wa eno oo\nrecord dataset",
-            "aot gun",
-            "the highest accuracy",
-            "trip duration model\na. exploratory data analysis",
-            "ance traffic windows",
+            "a cleaner distribution",
+            "trip ‘uration",
+            "linear assumptions",
+            "tae -20",
+            "traffic congestion levels",
             "the regulated pricing structure",
-            "the total duration",
-            "rf feature importance",
+            "if ; ( of )\nnificant improvement",
             "tariff rules",
-            "nyc taxi"
+            "a\ntable",
+            "duration\nrule",
+            "a near-perfect roc-\nfares",
+            "r dc ee",
+            "6\n¢ data quality",
+            "« feature correlation",
+            "classification\ntance",
+            "1% prediction sample",
+            "a sig- f",
+            "trip _duration",
+            "the raw elapsed time",
+            "a proxy",
+            "the application",
+            "ill\ne noise reduction",
+            "the rf model",
+            "gradient-\nbased learning",
+            "some zero/negative values",
+            "model rmse mae r",
+            "trip duration model\na. exploratory data analysis (eda) findings",
+            "-0.857 0.931\nfare prediction",
+            "non-physical outliers",
+            "fare prediction performance\ning",
+            "urban traffic",
+            "* 0 ep",
+            "re- ips",
+            "random forest",
+            "dis- auc",
+            "the fimitations",
+            "a no-\nio",
+            "significantly\ney oy ful eae",
+            "3 5 ' “ var s30\ncorrelation",
+            "the baseline",
+            "the total duration",
+            "linear regression",
+            "the ‘© account",
+            "a quarter",
+            "variance relative",
+            "the number",
+            "record dataset",
+            "model rmse mae",
+            "the rf classifier",
+            "heeeaetay rect h tk",
+            "external factors",
+            "fog 0 ot",
+            "the base",
+            "the rush_hour feature",
+            "© co",
+            "trip duration",
+            "“se\ntrip_distance",
+            "the class distribution",
+            "residual plot",
+            "5552.52 0.900\nb. duration prediction",
+            "the data",
+            "key observations",
+            "predefined peak\nduration prediction performance traffic windows",
+            "an fr",
+            "gy sy",
+            "the highest accuracy",
+            "“oo 2 © ©",
+            "logistic regression",
+            "b li r",
+            "the feature importance analysis",
+            "4\niv. results",
+            "a critical role",
+            "rf feature importance",
+            "the trip",
+            "all regression tasks",
+            "trip classification",
+            "nyc taxi",
+            "trip classification performance\nnon-linear congestion patterns",
+            "the 24-million- oe",
+            "feature importance",
+            "a a\" 0 “eke “gase raat e® °\nhigh degree",
+            "a strong linear",
+            "more\nlinear regression"
         ],
         "region_counts": {
             "Caption": 5,
@@ -1623,7 +1688,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "text": "A Phase Mean = 36.80\n8 Phase Mean = 80.00\n",
                 "bounding_box": {
                     "x": 1095,
                     "y": 1886,
@@ -1633,7 +1698,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "= A Phase\n—o=—B Phase\n",
+                "text": "== A Phase\n—o=—B Phase\n",
                 "bounding_box": {
                     "x": 1175,
                     "y": 1791,
@@ -1653,7 +1718,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "om A Phase\n—c=— B Phase\n",
+                "text": "== A Phase\n—=— B Phase\n",
                 "bounding_box": {
                     "x": 1153,
                     "y": 1344,
@@ -1663,7 +1728,7 @@
             },
             {
                 "region_type": "Body Text",
-                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 SO |\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n9 1 APhas\n44 | 8 Pha:\n34 t=\n",
                 "bounding_box": {
                     "x": 457,
                     "y": 1113,
@@ -1683,7 +1748,7 @@
             },
             {
                 "region_type": "Title",
-                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "text": "Behav, Sci. 2025, 15, 870 8 of 21\n",
                 "bounding_box": {
                     "x": 85,
                     "y": 85,
@@ -1699,63 +1764,63 @@
         "keywords": [
             {
                 "word": "trip",
-                "score": 0.31720027810061063
+                "score": 0.3584885719585767
             },
             {
                 "word": "model",
-                "score": 0.22657162721472188
+                "score": 0.22405535747411043
             },
             {
                 "word": "taxi",
-                "score": 0.22657162721472188
+                "score": 0.22405535747411043
             },
             {
                 "word": "fare",
-                "score": 0.1812573017717775
+                "score": 0.17924428597928835
             },
             {
                 "word": "linear",
-                "score": 0.1812573017717775
+                "score": 0.17924428597928835
             },
             {
                 "word": "location",
-                "score": 0.1812573017717775
+                "score": 0.17924428597928835
             },
             {
                 "word": "nyc",
-                "score": 0.1812573017717775
+                "score": 0.17924428597928835
             },
             {
                 "word": "www",
-                "score": 0.1812573017717775
+                "score": 0.17924428597928835
             },
             {
                 "word": "available",
-                "score": 0.13594297632883312
+                "score": 0.13443321448446624
             },
             {
                 "word": "data",
-                "score": 0.13594297632883312
+                "score": 0.13443321448446624
             },
             {
                 "word": "datum",
-                "score": 0.13594297632883312
+                "score": 0.13443321448446624
             },
             {
                 "word": "forest",
-                "score": 0.13594297632883312
+                "score": 0.13443321448446624
             },
             {
                 "word": "gov",
-                "score": 0.13594297632883312
+                "score": 0.13443321448446624
             },
             {
                 "word": "https",
-                "score": 0.13594297632883312
+                "score": 0.13443321448446624
             },
             {
                 "word": "importance",
-                "score": 0.13594297632883312
+                "score": 0.13443321448446624
             }
         ],
         "named_entities": [
@@ -1764,16 +1829,24 @@
                 "label": "CARDINAL"
             },
             {
-                "text": "1",
-                "label": "CARDINAL"
+                "text": "N. Y. C. Taxi",
+                "label": "PERSON"
             },
             {
                 "text": "L. Commission",
                 "label": "ORG"
             },
             {
+                "text": "Tle",
+                "label": "ORG"
+            },
+            {
                 "text": "2025",
                 "label": "DATE"
+            },
+            {
+                "text": "https://www.nyc.gov/site/tlc/abouy\nene Uc-trip-record-data.page",
+                "label": "ORG"
             },
             {
                 "text": "2",
@@ -1874,68 +1947,67 @@
         ],
         "key_phrases": [
             "the random forest",
-            "starting location",
-            "linear models",
-            "t. kee",
-            "a trip",
-            "the results",
-            "regulated pricing",
-            "the\nfinal fare",
-            "that distance",
-            "a distributed\nbig data pipeline",
-            "ensemble methods",
-            "the\nmost reliable predictors",
-            "big data mobility analytics",
-            "a critical\ncomponent",
-            "the demand",
-            "https://www.mdpi.conv2413-8851/9/9/348\nfig",
-            "urban sciences",
-            "(1) n. yc",
-            "the raw trip duration",
-            "variable factor situations",
-            "all rf\nmodels",
-            "the high\nimportance",
-            "random forest",
-            "5\na references",
-            "e. interpretation",
-            "the pickup location",
-            "non-linear complexity",
-            "the importance",
-            "hyperparameter\nen sot tuning methods",
-            "regulated outcomes",
-            "rush hour features",
-            "all three research hypotheses",
-            "subway service disruptions",
-            "the non-linear noise",
-            "rf trip classification",
-            "uc-trip-record-data.page\nj",
-            "the\ndatabricks environment",
-            "24 million nyc taxi trips",
-            "l. commission",
-            "taxi\ndata",
-            "tle tip record data",
-            "w. k. ho",
-            "machine learning models",
-            "trip length",
-            "urban traffic",
-            "additional data sources",
             "a comparative analysis",
-            "a strong baseline",
-            "spatial context",
-            "this project",
-            "the models",
-            "random forest ensembles",
-            "v. conclusion",
-            "the remaining variance",
-            "further improvements",
-            "weather\ndatasets",
-            "the findings",
-            "urban science",
-            "categoriza-\ntion",
+            "the demand",
+            "the\nmost reliable predictors",
+            "t. kee",
+            "variable factor situations",
+            "urban sciences",
             "4. feature importance",
-            "trip duration",
+            "the raw trip duration",
+            "big data mobility analytics",
+            "v. conclusion",
+            "24 million nyc taxi trips",
+            "the importance",
             "strong predictive per-\nformance",
-            "a solid\nbaseline"
+            "the findings",
+            "“tle trip record data",
+            "the\ndatabricks environment",
+            "additional data sources",
+            "a distributed\nbig data pipeline",
+            "5\na references\n- {l] n. y. c. taxi",
+            "trip length",
+            "e. interpretation",
+            "regulated pricing",
+            "starting location",
+            "random forest ensembles",
+            "rush hour features",
+            "the models",
+            "weather\ndatasets",
+            "a solid\nbaseline",
+            "trip duration",
+            "a tuning methods",
+            "categoriza-\ntion",
+            "urban traffic",
+            "a strong baseline",
+            "all three research hypotheses",
+            "random forest",
+            "a critical\ncomponent",
+            "the remaining variance",
+            "the\nfinal fare",
+            "non-linear complexity",
+            "urban science",
+            "subway service disruptions",
+            "rf trip classification",
+            "ensemble methods",
+            "the high\nimportance",
+            "further improvements",
+            "-8851/9/9/348\nfig",
+            "that distance",
+            "machine learning models",
+            "regulated outcomes",
+            "the non-linear “noise",
+            "taxi\ndata",
+            "w. k. ho",
+            "l. commission",
+            "the pickup location",
+            "all rf\nmodels",
+            "oa available",
+            "spatial context",
+            "the results",
+            "this project",
+            "linear models",
+            "a trip"
         ],
         "region_counts": {
             "Caption": 5,
@@ -1955,7 +2027,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "text": "A Phase Mean = 36.80\n8 Phase Mean = 80.00\n",
                 "bounding_box": {
                     "x": 1095,
                     "y": 1886,
@@ -1965,7 +2037,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "= A Phase\n—o=—B Phase\n",
+                "text": "== A Phase\n—o=—B Phase\n",
                 "bounding_box": {
                     "x": 1175,
                     "y": 1791,
@@ -1985,7 +2057,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "om A Phase\n—c=— B Phase\n",
+                "text": "== A Phase\n—=— B Phase\n",
                 "bounding_box": {
                     "x": 1153,
                     "y": 1344,
@@ -1995,7 +2067,7 @@
             },
             {
                 "region_type": "Body Text",
-                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 SO |\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n9 1 APhas\n44 | 8 Pha:\n34 t=\n",
                 "bounding_box": {
                     "x": 457,
                     "y": 1113,
@@ -2015,7 +2087,7 @@
             },
             {
                 "region_type": "Title",
-                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "text": "Behav, Sci. 2025, 15, 870 8 of 21\n",
                 "bounding_box": {
                     "x": 85,
                     "y": 85,
@@ -2031,66 +2103,78 @@
         "keywords": [
             {
                 "word": "soil",
-                "score": 0.48038446141526137
+                "score": 0.5132649025747366
             },
             {
                 "word": "survey",
-                "score": 0.48038446141526137
+                "score": 0.4399413450640599
+            },
+            {
+                "word": "ee",
+                "score": 0.21997067253202995
             },
             {
                 "word": "high",
-                "score": 0.16012815380508713
+                "score": 0.1466471150213533
             },
             {
-                "word": "house",
-                "score": 0.16012815380508713
+                "word": "il_",
+                "score": 0.1466471150213533
             },
             {
                 "word": "plot",
-                "score": 0.16012815380508713
+                "score": 0.1466471150213533
             },
             {
                 "word": "room",
-                "score": 0.16012815380508713
+                "score": 0.1466471150213533
             },
             {
                 "word": "worth",
-                "score": 0.16012815380508713
+                "score": 0.1466471150213533
             },
             {
-                "word": "aa",
-                "score": 0.08006407690254357
+                "word": "ai",
+                "score": 0.07332355751067665
+            },
+            {
+                "word": "ant",
+                "score": 0.07332355751067665
             },
             {
                 "word": "appear",
-                "score": 0.08006407690254357
+                "score": 0.07332355751067665
             },
             {
                 "word": "barren",
-                "score": 0.08006407690254357
+                "score": 0.07332355751067665
             },
             {
                 "word": "benefit",
-                "score": 0.08006407690254357
+                "score": 0.07332355751067665
             },
             {
                 "word": "bloom",
-                "score": 0.08006407690254357
+                "score": 0.07332355751067665
             },
             {
                 "word": "capacity",
-                "score": 0.08006407690254357
-            },
-            {
-                "word": "cg",
-                "score": 0.08006407690254357
-            },
-            {
-                "word": "ci",
-                "score": 0.08006407690254357
+                "score": 0.07332355751067665
             }
         ],
         "named_entities": [
+            {
+                "text": "Renee",
+                "label": "PERSON"
+            },
+            {
+                "text": "7",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "RESULIS",
+                "label": "ORG"
+            },
             {
                 "text": "One",
                 "label": "CARDINAL"
@@ -2100,16 +2184,8 @@
                 "label": "ORDINAL"
             },
             {
-                "text": "P|",
-                "label": "ORG"
-            },
-            {
                 "text": "East",
                 "label": "LOC"
-            },
-            {
-                "text": "CG",
-                "label": "PRODUCT"
             },
             {
                 "text": "five",
@@ -2118,56 +2194,44 @@
             {
                 "text": "two weeks",
                 "label": "DATE"
-            },
-            {
-                "text": "Il",
-                "label": "PERSON"
-            },
-            {
-                "text": "FOOR",
-                "label": "ORG"
-            },
-            {
-                "text": "7 Greenhouse",
-                "label": "WORK_OF_ART"
             }
         ],
         "key_phrases": [
-            "the rooms",
-            "such an undertaking",
-            "the extra data",
-            "this survey",
-            "a\ndirect relationship",
-            "ial x< barren\nsupport crop growth",
-            "[| [ |",
-            "some —t\ndifficulty",
-            "the promise",
-            "the survey",
-            "“7 greenhouse",
-            "the amount",
-            "the room position",
-            "a full survey",
-            "the soil survey",
-            "[ | ||",
-            "the house",
-            "| icy res u l j",
-            "each slot",
-            "all forty- ' cg\nfive plots",
-            "[| p|",
-            "soil quality",
-            "both the east and west wings",
-            "the soil’s capacity",
+            "a such an undertaking",
             "no way",
-            "two weeks",
-            "the project",
+            "the amount",
+            "the honse",
+            "the soil’s capacity",
+            "the survey",
+            "the effort",
+            "soil quality",
+            "[| [ | good\ngardens",
+            "the extra data",
+            "a full survey",
             "a survey",
-            "| survey",
-            "the higher ranks",
-            "high ground\n_ yields",
+            "— fk",
+            "the project",
+            "| \\",
+            "the room position",
+            "the house",
+            "ie | -\nbenefit",
+            "each slot",
+            "this survey",
+            "the rooms",
+            "a =) —\ndirect relationship",
+            "the inconvenience ne",
+            "the promise",
             "the first tasks",
+            "both the east and west wings",
+            "| la x< barren\nsupport crop growth",
+            "the higher ranks",
+            "[| survey",
+            "the various plots",
+            "two weeks",
+            "all forty-",
             "the wings",
-            "the inconvenience \\",
-            "the various plots"
+            "an | ee",
+            "{lt |_|"
         ],
         "region_counts": {
             "Caption": 5,
@@ -2187,7 +2251,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "text": "A Phase Mean = 36.80\n8 Phase Mean = 80.00\n",
                 "bounding_box": {
                     "x": 1095,
                     "y": 1886,
@@ -2197,7 +2261,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "= A Phase\n—o=—B Phase\n",
+                "text": "== A Phase\n—o=—B Phase\n",
                 "bounding_box": {
                     "x": 1175,
                     "y": 1791,
@@ -2217,7 +2281,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "om A Phase\n—c=— B Phase\n",
+                "text": "== A Phase\n—=— B Phase\n",
                 "bounding_box": {
                     "x": 1153,
                     "y": 1344,
@@ -2227,7 +2291,7 @@
             },
             {
                 "region_type": "Body Text",
-                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 SO |\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n9 1 APhas\n44 | 8 Pha:\n34 t=\n",
                 "bounding_box": {
                     "x": 457,
                     "y": 1113,
@@ -2247,7 +2311,7 @@
             },
             {
                 "region_type": "Title",
-                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "text": "Behav, Sci. 2025, 15, 870 8 of 21\n",
                 "bounding_box": {
                     "x": 85,
                     "y": 85,
@@ -2262,73 +2326,73 @@
         "page": 1,
         "keywords": [
             {
-                "word": "couch",
-                "score": 0.23904572186687872
-            },
-            {
-                "word": "my",
-                "score": 0.23904572186687872
-            },
-            {
-                "word": "the",
-                "score": 0.23904572186687872
-            },
-            {
-                "word": "1057",
-                "score": 0.11952286093343936
-            },
-            {
-                "word": "2908",
-                "score": 0.11952286093343936
-            },
-            {
-                "word": "2h",
-                "score": 0.11952286093343936
-            },
-            {
-                "word": "40",
-                "score": 0.11952286093343936
-            },
-            {
-                "word": "66",
-                "score": 0.11952286093343936
-            },
-            {
-                "word": "aiid",
-                "score": 0.11952286093343936
-            },
-            {
-                "word": "belng",
-                "score": 0.11952286093343936
-            },
-            {
-                "word": "bg",
-                "score": 0.11952286093343936
-            },
-            {
                 "word": "bowl",
-                "score": 0.11952286093343936
+                "score": 0.2879263002994778
             },
             {
-                "word": "bowlaremy",
-                "score": 0.11952286093343936
+                "word": "trash",
+                "score": 0.2879263002994778
             },
             {
-                "word": "boy",
-                "score": 0.11952286093343936
+                "word": "couch",
+                "score": 0.21594472522460836
             },
             {
-                "word": "cuip",
-                "score": 0.11952286093343936
+                "word": "door",
+                "score": 0.21594472522460836
+            },
+            {
+                "word": "house",
+                "score": 0.21594472522460836
+            },
+            {
+                "word": "clothe",
+                "score": 0.1439631501497389
+            },
+            {
+                "word": "dirty",
+                "score": 0.1439631501497389
+            },
+            {
+                "word": "home",
+                "score": 0.1439631501497389
+            },
+            {
+                "word": "instead",
+                "score": 0.1439631501497389
+            },
+            {
+                "word": "kitchen",
+                "score": 0.1439631501497389
+            },
+            {
+                "word": "leave",
+                "score": 0.1439631501497389
+            },
+            {
+                "word": "like",
+                "score": 0.1439631501497389
+            },
+            {
+                "word": "love",
+                "score": 0.1439631501497389
+            },
+            {
+                "word": "need",
+                "score": 0.1439631501497389
+            },
+            {
+                "word": "time",
+                "score": 0.1439631501497389
             }
         ],
         "named_entities": [
             {
-                "text": "Sweird",
-                "label": "NORP"
+                "text": "NOUR",
+                "label": "GPE"
             },
             {
-                "text": "2h",
+                "text": "1",
                 "label": "CARDINAL"
             },
             {
@@ -2336,50 +2400,76 @@
                 "label": "CARDINAL"
             },
             {
-                "text": "7",
-                "label": "CARDINAL"
+                "text": "Colorado Co\nG",
+                "label": "ORG"
             },
             {
-                "text": "1",
-                "label": "CARDINAL"
+                "text": "Chicago",
+                "label": "GPE"
             },
             {
-                "text": "2908",
+                "text": "EC",
+                "label": "ORG"
+            },
+            {
+                "text": "Every week",
                 "label": "DATE"
             },
             {
-                "text": "time.to",
+                "text": "—@foreverdred7 - 0",
                 "label": "PERSON"
             },
             {
-                "text": "1057.40",
+                "text": "10",
                 "label": "CARDINAL"
             },
             {
-                "text": "7",
-                "label": "CARDINAL"
-            },
-            {
-                "text": "ge",
+                "text": "SAY Panty",
                 "label": "ORG"
             }
         ],
         "key_phrases": [
-            "on.the couch",
-            "formy socks",
-            "the house",
-            "nd ge ot\nsese bg sircrogd",
-            "the bowlaremy",
-            "a sweird thing",
+            "the\nroom",
+            "my socks",
+            "the dirty hand towels",
             "the couch",
-            "a nice bowl",
-            "seug nm whatis",
-            "greaiést weapon",
-            "aiid keys",
-            "the boy",
-            "onda maian wo ee qriargr",
-            "\", 1057.40 go",
-            "feed hea"
+            "reudy 10 go",
+            "the house bowl",
+            "the couch\ncnd",
+            "my wardrobes",
+            "the bowl",
+            "a nice bow",
+            "the front door",
+            "the lights",
+            "a bowl",
+            "my wallet",
+            "g c",
+            "my bad object permanence",
+            "the floor",
+            "my\nshoes",
+            "colorado co",
+            "the\nirl trash con",
+            "the trash cans",
+            "the clothes",
+            "chicago\nec g t",
+            "a “trash can",
+            "the kitchen",
+            "a “weird thing",
+            "the\ndirty clothes",
+            "the house",
+            "the boyd",
+            "washing\nend",
+            "household\nupkeep",
+            "a cup",
+            "the doors",
+            "your home",
+            "my single greatest weapon",
+            "the blinds",
+            "smart home devices",
+            "your\nwe",
+            "a g g tfecl",
+            "my trash can",
+            "the dryer"
         ],
         "region_counts": {
             "Caption": 5,
@@ -2399,7 +2489,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "text": "A Phase Mean = 36.80\n8 Phase Mean = 80.00\n",
                 "bounding_box": {
                     "x": 1095,
                     "y": 1886,
@@ -2409,7 +2499,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "= A Phase\n—o=—B Phase\n",
+                "text": "== A Phase\n—o=—B Phase\n",
                 "bounding_box": {
                     "x": 1175,
                     "y": 1791,
@@ -2429,7 +2519,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "om A Phase\n—c=— B Phase\n",
+                "text": "== A Phase\n—=— B Phase\n",
                 "bounding_box": {
                     "x": 1153,
                     "y": 1344,
@@ -2439,7 +2529,7 @@
             },
             {
                 "region_type": "Body Text",
-                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 SO |\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n9 1 APhas\n44 | 8 Pha:\n34 t=\n",
                 "bounding_box": {
                     "x": 457,
                     "y": 1113,
@@ -2459,7 +2549,7 @@
             },
             {
                 "region_type": "Title",
-                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "text": "Behav, Sci. 2025, 15, 870 8 of 21\n",
                 "bounding_box": {
                     "x": 85,
                     "y": 85,
@@ -2474,130 +2564,200 @@
         "page": 1,
         "keywords": [
             {
-                "word": "rm",
-                "score": 0.40613846605344767
-            },
-            {
                 "word": "00",
-                "score": 0.30460384954008574
+                "score": 0.4435327625727437
             },
             {
-                "word": "03",
-                "score": 0.20306923302672383
-            },
-            {
-                "word": "gst",
-                "score": 0.20306923302672383
-            },
-            {
-                "word": "000397606912",
-                "score": 0.10153461651336192
-            },
-            {
-                "word": "01",
-                "score": 0.10153461651336192
-            },
-            {
-                "word": "05",
-                "score": 0.10153461651336192
-            },
-            {
-                "word": "14",
-                "score": 0.10153461651336192
-            },
-            {
-                "word": "168",
-                "score": 0.10153461651336192
-            },
-            {
-                "word": "2018",
-                "score": 0.10153461651336192
-            },
-            {
-                "word": "21423855",
-                "score": 0.10153461651336192
-            },
-            {
-                "word": "35",
-                "score": 0.10153461651336192
-            },
-            {
-                "word": "55100",
-                "score": 0.10153461651336192
-            },
-            {
-                "word": "70",
-                "score": 0.10153461651336192
+                "word": "rm",
+                "score": 0.3696106354772864
             },
             {
                 "word": "750",
-                "score": 0.10153461651336192
+                "score": 0.29568850838182914
+            },
+            {
+                "word": "gst",
+                "score": 0.29568850838182914
+            },
+            {
+                "word": "tax",
+                "score": 0.22176638128637186
+            },
+            {
+                "word": "03",
+                "score": 0.14784425419091457
+            },
+            {
+                "word": "707",
+                "score": 0.14784425419091457
+            },
+            {
+                "word": "eee",
+                "score": 0.14784425419091457
+            },
+            {
+                "word": "kuala",
+                "score": 0.14784425419091457
+            },
+            {
+                "word": "lumpur",
+                "score": 0.14784425419091457
+            },
+            {
+                "word": "000397606912",
+                "score": 0.07392212709545729
+            },
+            {
+                "word": "01",
+                "score": 0.07392212709545729
+            },
+            {
+                "word": "05",
+                "score": 0.07392212709545729
+            },
+            {
+                "word": "14",
+                "score": 0.07392212709545729
+            },
+            {
+                "word": "168",
+                "score": 0.07392212709545729
             }
         ],
         "named_entities": [
             {
-                "text": "| LOT:2,70.00",
-                "label": "PERSON"
+                "text": "LOT 2.70.00",
+                "label": "ORG"
             },
             {
                 "text": "2",
                 "label": "CARDINAL"
             },
             {
-                "text": "JALANIBUKIT",
+                "text": "168",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "JALAN",
+                "label": "NORP"
+            },
+            {
+                "text": "BUKIT BINTANG",
                 "label": "PERSON"
             },
             {
-                "text": "9°\n| Tél: 03:21423855.",
-                "label": "QUANTITY"
+                "text": "55100",
+                "label": "CARDINAL"
             },
             {
-                "text": "Wsafeveesssninnensennentecerctaieeesoeteces",
-                "label": "PRODUCT"
+                "text": "MALAYSIA",
+                "label": "GPE"
+            },
+            {
+                "text": "Tel",
+                "label": "PERSON"
+            },
+            {
+                "text": "03-2142 3855",
+                "label": "DATE"
+            },
+            {
+                "text": "000397606912",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "701005445",
+                "label": "DATE"
             },
             {
                 "text": "14/01/2018",
                 "label": "DATE"
             },
             {
-                "text": "05:03:35 PM",
-                "label": "TIME"
+                "text": "Promoter",
+                "label": "PERSON"
             },
             {
-                "text": "TOL",
+                "text": "Terminal",
                 "label": "ORG"
             },
             {
-                "text": "Ns",
+                "text": "Cashler",
                 "label": "ORG"
+            },
+            {
+                "text": "1NO",
+                "label": "CARDINAL"
             },
             {
                 "text": "750.00",
                 "label": "CARDINAL"
             },
             {
-                "text": "1",
+                "text": "750.00",
                 "label": "CARDINAL"
             },
             {
-                "text": "2 Q00h\nf.- GST Surimiary",
+                "text": "SubTotal (Exclusive GST",
                 "label": "WORK_OF_ART"
             },
             {
-                "text": ".-Amount(RM",
+                "text": "6%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "42.45",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Rounding Adj",
                 "label": "PERSON"
+            },
+            {
+                "text": "0.00",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Rounded Total",
+                "label": "ORG"
+            },
+            {
+                "text": "750:00",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Credit Card",
+                "label": "ORG"
+            },
+            {
+                "text": "707.55",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "4245",
+                "label": "DATE"
             }
         ],
         "key_phrases": [
-            "ed\n|",
-            "a -\n’ 55100,kualalumpur",
-            "|\n|",
-            "to1005445\n\nj",
-            "rm rm code\n| - bno",
-            "tol oe |\nns dager ce dene tees",
-            "ieee neltesee\n\nbo qt",
-            ", jalanibukit",
-            "-780,00\"sri\nene"
+            "55100 kuala lumpur",
+            "amount tax",
+            "03-2142 3855\ngst reg",
+            "document no",
+            "uw price",
+            "| terminal",
+            "open eee eee\n1no * 750.00 750.00 sr\n“subtotal",
+            "940075-x)\nlot 2.70.00",
+            "tax invoice\nflorism de art",
+            "exclusive gst",
+            "© rounded total",
+            "credit card 750,00\ngst summary",
+            "jalan bukit bintang",
+            "pavilion kuala lumpur",
+            "000397606912\n_",
+            ",\ndate",
+            "|\ndebtor",
+            "| qty rm rm code",
+            "tol\n| cashler"
         ],
         "region_counts": {
             "Caption": 5,
@@ -2617,7 +2777,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "text": "A Phase Mean = 36.80\n8 Phase Mean = 80.00\n",
                 "bounding_box": {
                     "x": 1095,
                     "y": 1886,
@@ -2627,7 +2787,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "= A Phase\n—o=—B Phase\n",
+                "text": "== A Phase\n—o=—B Phase\n",
                 "bounding_box": {
                     "x": 1175,
                     "y": 1791,
@@ -2647,7 +2807,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "om A Phase\n—c=— B Phase\n",
+                "text": "== A Phase\n—=— B Phase\n",
                 "bounding_box": {
                     "x": 1153,
                     "y": 1344,
@@ -2657,7 +2817,7 @@
             },
             {
                 "region_type": "Body Text",
-                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 SO |\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n9 1 APhas\n44 | 8 Pha:\n34 t=\n",
                 "bounding_box": {
                     "x": 457,
                     "y": 1113,
@@ -2677,7 +2837,7 @@
             },
             {
                 "region_type": "Title",
-                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "text": "Behav, Sci. 2025, 15, 870 8 of 21\n",
                 "bounding_box": {
                     "x": 85,
                     "y": 85,
@@ -2693,63 +2853,63 @@
         "keywords": [
             {
                 "word": "change",
-                "score": 0.29077680138805734
+                "score": 0.28942048862294917
             },
             {
                 "word": "intervention",
-                "score": 0.29077680138805734
+                "score": 0.28942048862294917
             },
             {
                 "word": "mean",
-                "score": 0.29077680138805734
+                "score": 0.28942048862294917
             },
             {
                 "word": "phase",
-                "score": 0.29077680138805734
+                "score": 0.28942048862294917
             },
             {
                 "word": "baseline",
-                "score": 0.22615973441293347
+                "score": 0.225104824484516
             },
             {
                 "word": "level",
-                "score": 0.22615973441293347
+                "score": 0.225104824484516
             },
             {
                 "word": "condition",
-                "score": 0.19385120092537156
-            },
-            {
-                "word": "p3",
-                "score": 0.19385120092537156
-            },
-            {
-                "word": "range",
-                "score": 0.19385120092537156
-            },
-            {
-                "word": "score",
-                "score": 0.19385120092537156
-            },
-            {
-                "word": "100",
-                "score": 0.16154266743780962
-            },
-            {
-                "word": "datum",
-                "score": 0.16154266743780962
+                "score": 0.19294699241529945
             },
             {
                 "word": "p1",
-                "score": 0.16154266743780962
+                "score": 0.19294699241529945
+            },
+            {
+                "word": "p3",
+                "score": 0.19294699241529945
+            },
+            {
+                "word": "range",
+                "score": 0.19294699241529945
+            },
+            {
+                "word": "score",
+                "score": 0.19294699241529945
+            },
+            {
+                "word": "100",
+                "score": 0.16078916034608287
+            },
+            {
+                "word": "datum",
+                "score": 0.16078916034608287
             },
             {
                 "word": "p2",
-                "score": 0.16154266743780962
+                "score": 0.16078916034608287
             },
             {
                 "word": "trend",
-                "score": 0.16154266743780962
+                "score": 0.16078916034608287
             }
         ],
         "named_entities": [
@@ -2770,8 +2930,12 @@
                 "label": "CARDINAL"
             },
             {
-                "text": "870 8of21",
-                "label": "QUANTITY"
+                "text": "870",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Sof 21",
+                "label": "LAW"
             },
             {
                 "text": "P3 and P1",
@@ -2910,7 +3074,7 @@
                 "label": "PERCENT"
             },
             {
-                "text": "Scruggs & Mastropicri",
+                "text": "Scruggs & Mastropieri",
                 "label": "ORG"
             },
             {
@@ -2930,11 +3094,15 @@
                 "label": "CARDINAL"
             },
             {
+                "text": "3 74",
+                "label": "DATE"
+            },
+            {
                 "text": "64",
                 "label": "MONEY"
             },
             {
-                "text": "3",
+                "text": "8",
                 "label": "CARDINAL"
             },
             {
@@ -2942,8 +3110,12 @@
                 "label": "CARDINAL"
             },
             {
-                "text": "54 l\n1",
-                "label": "DATE"
+                "text": "54",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
             },
             {
                 "text": "1.67",
@@ -2966,24 +3138,12 @@
                 "label": "CARDINAL"
             },
             {
-                "text": "P21",
-                "label": "ORG"
+                "text": "3",
+                "label": "CARDINAL"
             },
             {
-                "text": "2 84",
+                "text": "9 1",
                 "label": "DATE"
-            },
-            {
-                "text": "3",
-                "label": "CARDINAL"
-            },
-            {
-                "text": "3",
-                "label": "CARDINAL"
-            },
-            {
-                "text": "54",
-                "label": "CARDINAL"
             },
             {
                 "text": "36.80",
@@ -3011,48 +3171,48 @@
             }
         ],
         "key_phrases": [
-            "all participants",
-            "visual analysis data",
-            "no overlapping data",
-            "the supplementary materials",
-            "oa phase",
-            "a stability envelope",
-            "the full set",
-            "the behaviour change",
-            "an accelerating, improving trend",
-            "870 8of21\nintervention",
-            "a positive improving behaviour change",
-            "all\nlevel change measures",
-            "the data",
-            "$1.67\n44 l b phase",
             "all three partic-\nipants",
-            "a visual display",
-            "both phases",
+            "870 sof 21\nintervention",
             "baseline to 80%",
-            "p1’s scores",
-            "the baseline",
-            "any\nparticipants",
-            "p2’s mean accuracy scores",
-            "the relative level change",
-            "a level trend",
-            "a change",
-            "a phase\n3 t",
-            "b phase\nb",
-            "8b phase",
-            "p3’s mean accuracy scores",
             "median level change",
-            "a level,\ndeteriorating trend",
-            "both conditions",
+            "oa phase",
+            "all\nlevel change measures",
+            "an increasing therapeutic trend",
             "p2’s scores",
-            "54 l",
-            "84 |\nfi",
-            "p3’s\nscores",
+            "a stability envelope",
             "the intervention",
             "mean level change",
-            "absolute level change",
+            "both phases",
+            "b phase\n3b",
+            "84 |\nfi",
+            "a level trend",
             "p1’s mean accuracy scores",
-            "an increasing therapeutic trend",
-            "between-condition analysis"
+            "both conditions",
+            "p2’s mean accuracy scores",
+            "a visual display",
+            "absolute level change",
+            "p1’s scores",
+            "p3’s\nscores",
+            "a level,\ndeteriorating trend",
+            "the supplementary materials",
+            "p3’s mean accuracy scores",
+            "all participants",
+            "the baseline",
+            "54 l",
+            "the full set",
+            "any\nparticipants",
+            "between-condition analysis",
+            "$1.67\n44 l b phase",
+            "a positive improving behaviour change",
+            "| p1",
+            "no overlapping data",
+            "8 t",
+            "the behaviour change",
+            "an accelerating, improving trend",
+            "the data",
+            "a change",
+            "the relative level change",
+            "visual analysis data"
         ],
         "region_counts": {
             "Caption": 5,
@@ -3072,7 +3232,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "text": "A Phase Mean = 36.80\n8 Phase Mean = 80.00\n",
                 "bounding_box": {
                     "x": 1095,
                     "y": 1886,
@@ -3082,7 +3242,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "= A Phase\n—o=—B Phase\n",
+                "text": "== A Phase\n—o=—B Phase\n",
                 "bounding_box": {
                     "x": 1175,
                     "y": 1791,
@@ -3102,7 +3262,7 @@
             },
             {
                 "region_type": "Caption",
-                "text": "om A Phase\n—c=— B Phase\n",
+                "text": "== A Phase\n—=— B Phase\n",
                 "bounding_box": {
                     "x": 1153,
                     "y": 1344,
@@ -3112,7 +3272,7 @@
             },
             {
                 "region_type": "Body Text",
-                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 SO |\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n9 1 APhas\n44 | 8 Pha:\n34 t=\n",
                 "bounding_box": {
                     "x": 457,
                     "y": 1113,
@@ -3132,7 +3292,7 @@
             },
             {
                 "region_type": "Title",
-                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "text": "Behav, Sci. 2025, 15, 870 8 of 21\n",
                 "bounding_box": {
                     "x": 85,
                     "y": 85,
