@@ -1,0 +1,3145 @@
+[
+    {
+        "filename": "BDA_CA2_Technical_Report.pdf",
+        "page": 1,
+        "keywords": [
+            {
+                "word": "trip",
+                "score": 0.3279680246763151
+            },
+            {
+                "word": "dataset",
+                "score": 0.24597601850723633
+            },
+            {
+                "word": "data",
+                "score": 0.20498001542269695
+            },
+            {
+                "word": "duration",
+                "score": 0.16398401233815754
+            },
+            {
+                "word": "fare",
+                "score": 0.16398401233815754
+            },
+            {
+                "word": "record",
+                "score": 0.16398401233815754
+            },
+            {
+                "word": "taxi",
+                "score": 0.16398401233815754
+            },
+            {
+                "word": "2025",
+                "score": 0.12298800925361816
+            },
+            {
+                "word": "24",
+                "score": 0.12298800925361816
+            },
+            {
+                "word": "base",
+                "score": 0.12298800925361816
+            },
+            {
+                "word": "databricks",
+                "score": 0.12298800925361816
+            },
+            {
+                "word": "distance",
+                "score": 0.12298800925361816
+            },
+            {
+                "word": "feature",
+                "score": 0.12298800925361816
+            },
+            {
+                "word": "hypothesis",
+                "score": 0.12298800925361816
+            },
+            {
+                "word": "id",
+                "score": 0.12298800925361816
+            }
+        ],
+        "named_entities": [
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Predictive Analytics",
+                "label": "ORG"
+            },
+            {
+                "text": "January—June 2025",
+                "label": "DATE"
+            },
+            {
+                "text": "Tomas Wynne",
+                "label": "PERSON"
+            },
+            {
+                "text": "Atlantic Technological University",
+                "label": "ORG"
+            },
+            {
+                "text": "Big Data",
+                "label": "ORG"
+            },
+            {
+                "text": "24 million",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "January-June 2025",
+                "label": "DATE"
+            },
+            {
+                "text": "three",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Random Forest",
+                "label": "ORG"
+            },
+            {
+                "text": "2",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "0.81",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "0.69",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "ROC-AUC",
+                "label": "EVENT"
+            },
+            {
+                "text": "0.94",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "I. INTRODUCTION",
+                "label": "ORG"
+            },
+            {
+                "text": "TLC",
+                "label": "ORG"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "six",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "da ia",
+                "label": "PERSON"
+            },
+            {
+                "text": "one",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "4",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Data Quali",
+                "label": "ORG"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "4",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Nl",
+                "label": "ORG"
+            },
+            {
+                "text": "4",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "24",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "million",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "three",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Drop",
+                "label": "PERSON"
+            },
+            {
+                "text": "Pickup Timestamp",
+                "label": "PERSON"
+            },
+            {
+                "text": "Dropoff Timestamp",
+                "label": "PERSON"
+            },
+            {
+                "text": "2",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "KEY",
+                "label": "ORG"
+            },
+            {
+                "text": "DATASET",
+                "label": "ORG"
+            },
+            {
+                "text": "Cassified",
+                "label": "PERSON"
+            },
+            {
+                "text": "Ill.",
+                "label": "GPE"
+            },
+            {
+                "text": "2 15",
+                "label": "DATE"
+            },
+            {
+                "text": "Databricks",
+                "label": "GPE"
+            },
+            {
+                "text": "PySpark",
+                "label": "PERSON"
+            },
+            {
+                "text": "24 million",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "DATASET",
+                "label": "ORG"
+            },
+            {
+                "text": "DESCRIPTION",
+                "label": "PERSON"
+            },
+            {
+                "text": "six months",
+                "label": "DATE"
+            },
+            {
+                "text": "Data Ingestion & Cleaning",
+                "label": "ORG"
+            },
+            {
+                "text": "January to June of 2025",
+                "label": "DATE"
+            },
+            {
+                "text": "Data",
+                "label": "ORG"
+            },
+            {
+                "text": "Databricks",
+                "label": "GPE"
+            },
+            {
+                "text": "the NYC Taxi & Limousine Commission",
+                "label": "ORG"
+            },
+            {
+                "text": "Parquet",
+                "label": "PERSON"
+            },
+            {
+                "text": "Spark",
+                "label": "ORG"
+            },
+            {
+                "text": "Parquet",
+                "label": "PRODUCT"
+            }
+        ],
+        "key_phrases": [
+            "a scalable pipeline",
+            "pa nt one me ancl dataset ne\ntransportation optimisation",
+            "1\npredictive analytics",
+            "pickup timestamp",
+            "taxi trip records",
+            "trip base",
+            "an roc-auc",
+            "fare_amount base fare",
+            "data quali",
+            "the pipeline",
+            "ti t",
+            ")\nmachine processing limits",
+            "cleaning\ntaxi records",
+            "distance and temporal features",
+            "the objective",
+            "24 million records",
+            "this project",
+            "random forest ensembles",
+            "fleet management",
+            "the study",
+            "i. introduction",
+            "lincar baselines",
+            "a pre-",
+            "long mins",
+            "rare\nlarge-scale mobility datasets",
+            "pickup zone id\ndolocationid drop",
+            "da ia",
+            "dictable linear relationship",
+            "distributed processing",
+            "statistical svunine",
+            "the dataset",
+            "extreme outliers",
+            "4 istical pruning",
+            "onif.\nenvironments",
+            "three predictive tasks",
+            "yellow 4- data ingestion",
+            "24 “feature.—~—~=~”~*c«~@deseription ss\nmillion records",
+            "trip duration",
+            "4 yp",
+            "the implementation",
+            "zone id",
+            "ensemble methods",
+            "pypothesis % rps",
+            "the\n24 million row dataset",
+            "that\nduration",
+            "apache spark",
+            "lincar models",
+            "distributed processing and non-\nlinear modelling",
+            "nyc yellow taxis",
+            "the efficacy",
+            "a comparative analysis",
+            "passenger_count number",
+            "the databricks environ-",
+            "duration regression",
+            "urban mobility",
+            "large-scale nyc taxi trip\ndata",
+            "the nyc taxi & limousine commission ment",
+            "an initia 1 analysis",
+            "dataset description",
+            "key features",
+            "tomas wynne\ncomputing department",
+            "spark’s native parquet reader",
+            "six parquet files",
+            "trip outcomes",
+            "abstract\nthis report",
+            "dropoff timestamp\ne",
+            "a rich vaymnent 4 ss oe",
+            "duration prediction",
+            "trip distance",
+            "sourced data",
+            "three primary hypotheses",
+            "ing pyspark",
+            "binary trip-length classification",
+            "a id tif",
+            "six months",
+            "travel behaviour",
+            "atlantic technological university"
+        ],
+        "region_counts": {
+            "Caption": 5,
+            "Body Text": 2,
+            "Title": 1
+        },
+        "region_text_mapping": [
+            {
+                "region_type": "Caption",
+                "text": "Figure 1. Cont.\n",
+                "bounding_box": {
+                    "x": 449,
+                    "y": 2034,
+                    "w": 190,
+                    "h": 54
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "bounding_box": {
+                    "x": 1095,
+                    "y": 1886,
+                    "w": 271,
+                    "h": 91
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "= A Phase\n—o=—B Phase\n",
+                "bounding_box": {
+                    "x": 1175,
+                    "y": 1791,
+                    "w": 188,
+                    "h": 84
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = $1.67\nB Phase Mean = 82.78\n",
+                "bounding_box": {
+                    "x": 1078,
+                    "y": 1450,
+                    "w": 268,
+                    "h": 80
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "om A Phase\n—c=— B Phase\n",
+                "bounding_box": {
+                    "x": 1153,
+                    "y": 1344,
+                    "w": 189,
+                    "h": 87
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "bounding_box": {
+                    "x": 457,
+                    "y": 1113,
+                    "w": 723,
+                    "h": 920
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "intervention for P3 and P1 and a level trend at baseline and an increasing therapeutic trend\nduring the intervention for P2. A stability envelope was applied to trend lines and showed\nthat the data we",
+                "bounding_box": {
+                    "x": 445,
+                    "y": 192,
+                    "w": 1128,
+                    "h": 910
+                }
+            },
+            {
+                "region_type": "Title",
+                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "bounding_box": {
+                    "x": 85,
+                    "y": 85,
+                    "w": 1484,
+                    "h": 75
+                }
+            }
+        ]
+    },
+    {
+        "filename": "BDA_CA2_Technical_Report.pdf",
+        "page": 2,
+        "keywords": [
+            {
+                "word": "trip",
+                "score": 0.44237395520380884
+            },
+            {
+                "word": "feature",
+                "score": 0.22118697760190442
+            },
+            {
+                "word": "00",
+                "score": 0.17694958208152353
+            },
+            {
+                "word": "duration",
+                "score": 0.17694958208152353
+            },
+            {
+                "word": "minute",
+                "score": 0.17694958208152353
+            },
+            {
+                "word": "drop",
+                "score": 0.13271218656114264
+            },
+            {
+                "word": "engineering",
+                "score": 0.13271218656114264
+            },
+            {
+                "word": "fare",
+                "score": 0.13271218656114264
+            },
+            {
+                "word": "model",
+                "score": 0.13271218656114264
+            },
+            {
+                "word": "outlier",
+                "score": 0.13271218656114264
+            },
+            {
+                "word": "record",
+                "score": 0.13271218656114264
+            },
+            {
+                "word": "timestamp",
+                "score": 0.13271218656114264
+            },
+            {
+                "word": "15",
+                "score": 0.08847479104076177
+            },
+            {
+                "word": "binary",
+                "score": 0.08847479104076177
+            },
+            {
+                "word": "convert",
+                "score": 0.08847479104076177
+            }
+        ],
+        "named_entities": [
+            {
+                "text": "2",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Dataframe",
+                "label": "ORG"
+            },
+            {
+                "text": "rani",
+                "label": "PERSON"
+            },
+            {
+                "text": "Parquet Files\nvisualizations",
+                "label": "PERSON"
+            },
+            {
+                "text": "1%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "Parquet Files",
+                "label": "PERSON"
+            },
+            {
+                "text": "Pandas Dataframe",
+                "label": "ORG"
+            },
+            {
+                "text": "five",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "2",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "zero",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "3",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "0.01 minutes",
+                "label": "TIME"
+            },
+            {
+                "text": "4",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "400",
+                "label": "MONEY"
+            },
+            {
+                "text": "Sigma Rule",
+                "label": "PERSON"
+            },
+            {
+                "text": "three",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Fig",
+                "label": "PERSON"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Modem",
+                "label": "ORG"
+            },
+            {
+                "text": "Apache Spark",
+                "label": "PRODUCT"
+            },
+            {
+                "text": "Databricks",
+                "label": "GPE"
+            },
+            {
+                "text": "3",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Two",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "5",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "11",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "7",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Sunday",
+                "label": "DATE"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "RatecodeID",
+                "label": "ORG"
+            },
+            {
+                "text": "07:00-10:00",
+                "label": "TIME"
+            },
+            {
+                "text": "16:00-19:00",
+                "label": "DATE"
+            },
+            {
+                "text": "evening",
+                "label": "TIME"
+            },
+            {
+                "text": "Hypothesis",
+                "label": "ORG"
+            },
+            {
+                "text": "3",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "less than 15 minutes",
+                "label": "TIME"
+            },
+            {
+                "text": "minutes",
+                "label": "TIME"
+            },
+            {
+                "text": "daily",
+                "label": "DATE"
+            },
+            {
+                "text": "15 minutes",
+                "label": "TIME"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "pickup_day",
+                "label": "DATE"
+            }
+        ],
+        "key_phrases": [
+            "the difference",
+            "extreme right- reeset toa aig date feature engineering",
+            "11 irrelevant columns",
+            "unique\ntrip records",
+            "fare structure",
+            "target variable",
+            "modem machine learning pipeline architecture",
+            "5) noise reduction",
+            "a\nture",
+            "in-\ncreased morning and evening traffic",
+            "sepa-\n» timestamp granularity",
+            "rani parquet files\nvisualizations",
+            "five distinct stages",
+            "2) validity filtering",
+            "the mean",
+            "three stan-\ndard deviations",
+            "spark rate modelling notebooks",
+            "1) duplication removal",
+            "only records",
+            "a | parquet files",
+            "the original tpep_pickup_datetime",
+            "this method",
+            "temporal pruning",
+            "categorical flags",
+            "demand periods",
+            "the 3-sigma rule",
+            "dimension- - és_weekend",
+            "hypothesis\n¢ trip duration",
+            "a\nunix timestamps",
+            "daily demand cycles",
+            "the databricks environment",
+            "the extremely large dataset size",
+            "influence both trip duration",
+            "apache spark",
+            "extreme outliers",
+            "the cleaned and feature enhanced dataset",
+            "no duplicates",
+            "(e.g., ratecodeid, airport_fee",
+            "a 3-\nsigma rule",
+            "|\npandas dataframe",
+            "memory usage",
+            "the pipeline",
+            "less than 15 minutes",
+            "a duration",
+            "databricks server-less caching overflow",
+            "= pickup_hour",
+            "one dataframe",
+            "sat-\nality",
+            "a hard\ncut-off",
+            "the regression coefficients",
+            "the underlying data distribu-",
+            "a 1% sample",
+            "functions timestamps",
+            "16:00-19:00, typically periods",
+            "the trip_duration fea-",
+            "b. feature engineering",
+            "15 minutes",
+            "a representative distribution",
+            "threshold-based approach",
+            "a normal dis-",
+            "two binary indicators",
+            "z<pit3e fig",
+            "pickup_month features",
+            "trip dis-\ntances",
+            "drop-off and pick-up times",
+            "taxi trip distributions",
+            "0.01 minutes",
+            "e.g., cross-state trips",
+            "a binary label",
+            "a delta table",
+            "ingestion\nthe cleaning process"
+        ],
+        "region_counts": {
+            "Caption": 5,
+            "Body Text": 2,
+            "Title": 1
+        },
+        "region_text_mapping": [
+            {
+                "region_type": "Caption",
+                "text": "Figure 1. Cont.\n",
+                "bounding_box": {
+                    "x": 449,
+                    "y": 2034,
+                    "w": 190,
+                    "h": 54
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "bounding_box": {
+                    "x": 1095,
+                    "y": 1886,
+                    "w": 271,
+                    "h": 91
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "= A Phase\n—o=—B Phase\n",
+                "bounding_box": {
+                    "x": 1175,
+                    "y": 1791,
+                    "w": 188,
+                    "h": 84
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = $1.67\nB Phase Mean = 82.78\n",
+                "bounding_box": {
+                    "x": 1078,
+                    "y": 1450,
+                    "w": 268,
+                    "h": 80
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "om A Phase\n—c=— B Phase\n",
+                "bounding_box": {
+                    "x": 1153,
+                    "y": 1344,
+                    "w": 189,
+                    "h": 87
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "bounding_box": {
+                    "x": 457,
+                    "y": 1113,
+                    "w": 723,
+                    "h": 920
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "intervention for P3 and P1 and a level trend at baseline and an increasing therapeutic trend\nduring the intervention for P2. A stability envelope was applied to trend lines and showed\nthat the data we",
+                "bounding_box": {
+                    "x": 445,
+                    "y": 192,
+                    "w": 1128,
+                    "h": 910
+                }
+            },
+            {
+                "region_type": "Title",
+                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "bounding_box": {
+                    "x": 85,
+                    "y": 85,
+                    "w": 1484,
+                    "h": 75
+                }
+            }
+        ]
+    },
+    {
+        "filename": "BDA_CA2_Technical_Report.pdf",
+        "page": 3,
+        "keywords": [
+            {
+                "word": "model",
+                "score": 0.3656000086660744
+            },
+            {
+                "word": "linear",
+                "score": 0.24373333911071626
+            },
+            {
+                "word": "feature",
+                "score": 0.20311111592559689
+            },
+            {
+                "word": "pipeline",
+                "score": 0.20311111592559689
+            },
+            {
+                "word": "duration",
+                "score": 0.1624888927404775
+            },
+            {
+                "word": "ensure",
+                "score": 0.1624888927404775
+            },
+            {
+                "word": "trip",
+                "score": 0.1624888927404775
+            },
+            {
+                "word": "forest",
+                "score": 0.12186666955535813
+            },
+            {
+                "word": "high",
+                "score": 0.12186666955535813
+            },
+            {
+                "word": "ml",
+                "score": 0.12186666955535813
+            },
+            {
+                "word": "path",
+                "score": 0.12186666955535813
+            },
+            {
+                "word": "regression",
+                "score": 0.12186666955535813
+            },
+            {
+                "word": "rfc",
+                "score": 0.12186666955535813
+            },
+            {
+                "word": "taxi",
+                "score": 0.12186666955535813
+            },
+            {
+                "word": "test",
+                "score": 0.12186666955535813
+            }
+        ],
+        "named_entities": [
+            {
+                "text": "3",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Linear Regression (LR",
+                "label": "ORG"
+            },
+            {
+                "text": "NYC",
+                "label": "LOC"
+            },
+            {
+                "text": "Random Forest Regressor",
+                "label": "ORG"
+            },
+            {
+                "text": "RFR",
+                "label": "ORG"
+            },
+            {
+                "text": "RFR",
+                "label": "ORG"
+            },
+            {
+                "text": "50",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "maxDepth",
+                "label": "ORG"
+            },
+            {
+                "text": "10",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Fig",
+                "label": "PERSON"
+            },
+            {
+                "text": "2",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "2",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "3",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "C. Modelling Pipeline Architecture",
+                "label": "ORG"
+            },
+            {
+                "text": "Pipeline API",
+                "label": "PERSON"
+            },
+            {
+                "text": "two",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "StandardScaler",
+                "label": "ORG"
+            },
+            {
+                "text": "Random Forest Classifier",
+                "label": "ORG"
+            },
+            {
+                "text": "RFC",
+                "label": "ORG"
+            },
+            {
+                "text": "RFC",
+                "label": "ORG"
+            },
+            {
+                "text": "2",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Forest Path",
+                "label": "PERSON"
+            },
+            {
+                "text": "300",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "RFC",
+                "label": "ORG"
+            },
+            {
+                "text": "Databricks",
+                "label": "GPE"
+            },
+            {
+                "text": "3",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "20%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "RegressionEvaluator",
+                "label": "ORG"
+            },
+            {
+                "text": "24 million",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "three",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Pipeline API",
+                "label": "PERSON"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Fare",
+                "label": "ORG"
+            },
+            {
+                "text": "Hypothesis",
+                "label": "ORG"
+            },
+            {
+                "text": "node",
+                "label": "ORG"
+            }
+        ],
+        "key_phrases": [
+            "the effectiveness",
+            "the nyc taxi\necosystem",
+            "a maxdepth",
+            "the\n2) forest path",
+            "each pipeline",
+            "trip_class label",
+            "a modern ensemble method",
+            "taxi trips",
+            "a linear, additive relationship",
+            "a baseline model",
+            "” durations",
+            "the pyspark.ml",
+            "300 maxbins\nraw vectors",
+            "tree-based models",
+            "the stability",
+            "the “linearity",
+            "iterative model testing",
+            "categorical in- ship",
+            "its high interpretabil-\nity",
+            "a probabilistic interpretation",
+            "trip length",
+            "«_ logistic regression",
+            "complex ensemble\napproach",
+            "explicit variable deletion",
+            "the model",
+            "each evaluation",
+            "urban\ntraffic patterns",
+            "the regressionevaluator",
+            "an en-\nsemble alternative",
+            "the predictability",
+            "memory constraints",
+            "the classes",
+            "50 trees",
+            "a traditional linear overflow",
+            "learning experiments",
+            "the\n1) regression",
+            "random forest regressor",
+            "location-specific traffic density",
+            "the rfc",
+            "d. predictive modeling implementation test",
+            "feature magnitudes",
+            "a critical technical",
+            "(hypothesis driver node",
+            "this setting",
+            "a benchmark",
+            "trip duration",
+            "the modeling phase",
+            "binary classification",
+            "(hypoth-\nsion models",
+            "1) linear path",
+            "the distributed\ncluster",
+            "memory\nand fare amounts",
+            "the high volume",
+            "the\npyspark.ml",
+            "two distinct feature-processing paths",
+            "24 million\nthree primary hypotheses",
+            "the\nrelationship",
+            "the databricks",
+            "variable deletion",
+            "the high cardinality",
+            "robust generalization",
+            "used onehotencoder",
+            "3\ne linear regression",
+            "these\ncomplex feature interactions",
+            "the target variables",
+            "the\nc. modelling pipeline architecture",
+            "trip duration databricks environment",
+            "the gradient descent",
+            "all models",
+            "pipeline api",
+            "modular notebooks",
+            "2.. ml pipeline architecture",
+            "driver-node\ncache overflow",
+            "a held-out 20%",
+            "each unique taxi zone",
+            "categorical choice",
+            "a distinct split point",
+            "did not e random forest classifier",
+            "the training",
+            "a series",
+            "class member-\nstandardscaler",
+            "distance and time changes",
+            "a linear decision",
+            "and notebook modularization"
+        ],
+        "region_counts": {
+            "Caption": 5,
+            "Body Text": 2,
+            "Title": 1
+        },
+        "region_text_mapping": [
+            {
+                "region_type": "Caption",
+                "text": "Figure 1. Cont.\n",
+                "bounding_box": {
+                    "x": 449,
+                    "y": 2034,
+                    "w": 190,
+                    "h": 54
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "bounding_box": {
+                    "x": 1095,
+                    "y": 1886,
+                    "w": 271,
+                    "h": 91
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "= A Phase\n—o=—B Phase\n",
+                "bounding_box": {
+                    "x": 1175,
+                    "y": 1791,
+                    "w": 188,
+                    "h": 84
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = $1.67\nB Phase Mean = 82.78\n",
+                "bounding_box": {
+                    "x": 1078,
+                    "y": 1450,
+                    "w": 268,
+                    "h": 80
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "om A Phase\n—c=— B Phase\n",
+                "bounding_box": {
+                    "x": 1153,
+                    "y": 1344,
+                    "w": 189,
+                    "h": 87
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "bounding_box": {
+                    "x": 457,
+                    "y": 1113,
+                    "w": 723,
+                    "h": 920
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "intervention for P3 and P1 and a level trend at baseline and an increasing therapeutic trend\nduring the intervention for P2. A stability envelope was applied to trend lines and showed\nthat the data we",
+                "bounding_box": {
+                    "x": 445,
+                    "y": 192,
+                    "w": 1128,
+                    "h": 910
+                }
+            },
+            {
+                "region_type": "Title",
+                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "bounding_box": {
+                    "x": 85,
+                    "y": 85,
+                    "w": 1484,
+                    "h": 75
+                }
+            }
+        ]
+    },
+    {
+        "filename": "BDA_CA2_Technical_Report.pdf",
+        "page": 4,
+        "keywords": [
+            {
+                "word": "duration",
+                "score": 0.2670666578007805
+            },
+            {
+                "word": "trip",
+                "score": 0.2289142781149547
+            },
+            {
+                "word": "feature",
+                "score": 0.19076189842912894
+            },
+            {
+                "word": "linear",
+                "score": 0.19076189842912894
+            },
+            {
+                "word": "model",
+                "score": 0.19076189842912894
+            },
+            {
+                "word": "prediction",
+                "score": 0.19076189842912894
+            },
+            {
+                "word": "regression",
+                "score": 0.19076189842912894
+            },
+            {
+                "word": "analysis",
+                "score": 0.15260951874330314
+            },
+            {
+                "word": "fare",
+                "score": 0.15260951874330314
+            },
+            {
+                "word": "forest",
+                "score": 0.15260951874330314
+            },
+            {
+                "word": "random",
+                "score": 0.15260951874330314
+            },
+            {
+                "word": "rf",
+                "score": 0.15260951874330314
+            },
+            {
+                "word": "traffic",
+                "score": 0.15260951874330314
+            },
+            {
+                "word": "achieve",
+                "score": 0.11445713905747736
+            },
+            {
+                "word": "auc",
+                "score": 0.11445713905747736
+            }
+        ],
+        "named_entities": [
+            {
+                "text": "4",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "ANALYSIS Residual Plot",
+                "label": "ORG"
+            },
+            {
+                "text": "EDA",
+                "label": "ORG"
+            },
+            {
+                "text": "0",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "1%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "24",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "8",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Boas",
+                "label": "ORG"
+            },
+            {
+                "text": "2",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Stk See ee Bree\ne",
+                "label": "FAC"
+            },
+            {
+                "text": "Feature Correlation:",
+                "label": "ORG"
+            },
+            {
+                "text": "30",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "7s",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Mey",
+                "label": "PERSON"
+            },
+            {
+                "text": "40",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Fig",
+                "label": "PERSON"
+            },
+            {
+                "text": "3",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "1%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "EDA",
+                "label": "ORG"
+            },
+            {
+                "text": "FARE PREDICTION",
+                "label": "PERSON"
+            },
+            {
+                "text": "24 million",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "17.69 million",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Model RMSE MAE",
+                "label": "ORG"
+            },
+            {
+                "text": "Linear Regression",
+                "label": "ORG"
+            },
+            {
+                "text": "5.89",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "some zero",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Random Forest",
+                "label": "ORG"
+            },
+            {
+                "text": "5552.52 0.900",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Linear Regression",
+                "label": "ORG"
+            },
+            {
+                "text": "0.281",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Random Forest",
+                "label": "ORG"
+            },
+            {
+                "text": "RF",
+                "label": "ORG"
+            },
+            {
+                "text": "0.003",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "linear",
+                "label": "ORG"
+            },
+            {
+                "text": "Model RMSE MAE",
+                "label": "ORG"
+            },
+            {
+                "text": "Linear Regression 733",
+                "label": "WORK_OF_ART"
+            },
+            {
+                "text": "4.86",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Random Forest",
+                "label": "ORG"
+            },
+            {
+                "text": "5.70",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "RF",
+                "label": "ORG"
+            },
+            {
+                "text": "0.812",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "D.",
+                "label": "NORP"
+            },
+            {
+                "text": "3",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "0.690",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "ROC-AUC",
+                "label": "EVENT"
+            },
+            {
+                "text": "0.678",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "0.251",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "erat Congeation",
+                "label": "ORG"
+            },
+            {
+                "text": "Model Accuracy",
+                "label": "PERSON"
+            },
+            {
+                "text": "2",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Logistic Regression",
+                "label": "WORK_OF_ART"
+            },
+            {
+                "text": "Random Forest",
+                "label": "ORG"
+            },
+            {
+                "text": "NYC",
+                "label": "ORG"
+            },
+            {
+                "text": "The RF Classifier",
+                "label": "WORK_OF_ART"
+            },
+            {
+                "text": "0.942",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "2",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "0.838",
+                "label": "CARDINAL"
+            }
+        ],
+        "key_phrases": [
+            "; 8 *e boas poo” ora",
+            "traffic congestion levels",
+            "the base",
+            "the rf classifier",
+            "the © account",
+            "significantly\nrandom forest",
+            "the binary classification task",
+            "classification\ntance",
+            "key observations",
+            "nificant improvement",
+            "the number",
+            "linear assumptions",
+            "a quarter",
+            "some zero/negative values",
+            "urban traffic",
+            "a near-perfect roc-\nfares",
+            "30\ncorrelation",
+            "a\ntrip",
+            "linear regression",
+            "the limitations",
+            "the class distribution",
+            "feature importance",
+            "a sig- d. trip classification",
+            "a cleaner distribution",
+            "the rush_hour feature",
+            "traffic °\ndensity",
+            "table insight",
+            "residual plot",
+            "the raw elapsed time",
+            "wip duration",
+            "the 0.690",
+            "the feature importance analysis",
+            "more\n“linear regression",
+            "5552.52 0.900\nb. duration prediction",
+            "1% prediction sample",
+            "a critical role",
+            "4\niv. results",
+            "model rmse mae r",
+            "trip duration",
+            "0.860 08570931\nfare prediction",
+            "duration prn",
+            "variance relative",
+            "re- ips",
+            "an r",
+            "dis- auc",
+            "3. residual plot",
+            "gradient-\nbased learning",
+            "random forest",
+            "ea °\nhigh degree",
+            "erat congeation patterns",
+            "external factors",
+            "a 1% sample",
+            "eda) findings",
+            "the application",
+            "fare prediction performance\ning",
+            "stk see ee bree\ne feature correlation",
+            "non-physical ourees",
+            "primary driver",
+            "3.60 0.812\nthe rf model",
+            "the trip",
+            "logistic regression",
+            "a proxy",
+            "the data",
+            "it\ne noise reduction",
+            "all regression tasks",
+            "mey ree",
+            "the baseline",
+            "a no-\nthe comparison",
+            "duration\nrule",
+            "a strong linear",
+            "_ 2 gnaw tka a",
+            "model rmse mae",
+            "the 24-million- wa eno oo\nrecord dataset",
+            "aot gun",
+            "the highest accuracy",
+            "trip duration model\na. exploratory data analysis",
+            "ance traffic windows",
+            "the regulated pricing structure",
+            "the total duration",
+            "rf feature importance",
+            "tariff rules",
+            "nyc taxi"
+        ],
+        "region_counts": {
+            "Caption": 5,
+            "Body Text": 2,
+            "Title": 1
+        },
+        "region_text_mapping": [
+            {
+                "region_type": "Caption",
+                "text": "Figure 1. Cont.\n",
+                "bounding_box": {
+                    "x": 449,
+                    "y": 2034,
+                    "w": 190,
+                    "h": 54
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "bounding_box": {
+                    "x": 1095,
+                    "y": 1886,
+                    "w": 271,
+                    "h": 91
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "= A Phase\n—o=—B Phase\n",
+                "bounding_box": {
+                    "x": 1175,
+                    "y": 1791,
+                    "w": 188,
+                    "h": 84
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = $1.67\nB Phase Mean = 82.78\n",
+                "bounding_box": {
+                    "x": 1078,
+                    "y": 1450,
+                    "w": 268,
+                    "h": 80
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "om A Phase\n—c=— B Phase\n",
+                "bounding_box": {
+                    "x": 1153,
+                    "y": 1344,
+                    "w": 189,
+                    "h": 87
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "bounding_box": {
+                    "x": 457,
+                    "y": 1113,
+                    "w": 723,
+                    "h": 920
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "intervention for P3 and P1 and a level trend at baseline and an increasing therapeutic trend\nduring the intervention for P2. A stability envelope was applied to trend lines and showed\nthat the data we",
+                "bounding_box": {
+                    "x": 445,
+                    "y": 192,
+                    "w": 1128,
+                    "h": 910
+                }
+            },
+            {
+                "region_type": "Title",
+                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "bounding_box": {
+                    "x": 85,
+                    "y": 85,
+                    "w": 1484,
+                    "h": 75
+                }
+            }
+        ]
+    },
+    {
+        "filename": "BDA_CA2_Technical_Report.pdf",
+        "page": 5,
+        "keywords": [
+            {
+                "word": "trip",
+                "score": 0.31720027810061063
+            },
+            {
+                "word": "model",
+                "score": 0.22657162721472188
+            },
+            {
+                "word": "taxi",
+                "score": 0.22657162721472188
+            },
+            {
+                "word": "fare",
+                "score": 0.1812573017717775
+            },
+            {
+                "word": "linear",
+                "score": 0.1812573017717775
+            },
+            {
+                "word": "location",
+                "score": 0.1812573017717775
+            },
+            {
+                "word": "nyc",
+                "score": 0.1812573017717775
+            },
+            {
+                "word": "www",
+                "score": 0.1812573017717775
+            },
+            {
+                "word": "available",
+                "score": 0.13594297632883312
+            },
+            {
+                "word": "data",
+                "score": 0.13594297632883312
+            },
+            {
+                "word": "datum",
+                "score": 0.13594297632883312
+            },
+            {
+                "word": "forest",
+                "score": 0.13594297632883312
+            },
+            {
+                "word": "gov",
+                "score": 0.13594297632883312
+            },
+            {
+                "word": "https",
+                "score": 0.13594297632883312
+            },
+            {
+                "word": "importance",
+                "score": 0.13594297632883312
+            }
+        ],
+        "named_entities": [
+            {
+                "text": "5",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "L. Commission",
+                "label": "ORG"
+            },
+            {
+                "text": "2025",
+                "label": "DATE"
+            },
+            {
+                "text": "2",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "accessed:2026-03-10",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "3",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "T. Kee",
+                "label": "PERSON"
+            },
+            {
+                "text": "W. K. Ho",
+                "label": "PERSON"
+            },
+            {
+                "text": "9",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "2025",
+                "label": "DATE"
+            },
+            {
+                "text": "4",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "0.110",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "linear",
+                "label": "ORG"
+            },
+            {
+                "text": "Random Forest",
+                "label": "ORG"
+            },
+            {
+                "text": "RF",
+                "label": "ORG"
+            },
+            {
+                "text": "Big Data",
+                "label": "ORG"
+            },
+            {
+                "text": "V. CONCLUSION",
+                "label": "PERSON"
+            },
+            {
+                "text": "Big Data",
+                "label": "ORG"
+            },
+            {
+                "text": "24 million",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "NYC",
+                "label": "ORG"
+            },
+            {
+                "text": "Spark",
+                "label": "ORG"
+            },
+            {
+                "text": "linear",
+                "label": "ORG"
+            },
+            {
+                "text": "Random Forest",
+                "label": "ORG"
+            },
+            {
+                "text": "three",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "CrossValidator",
+                "label": "ORG"
+            },
+            {
+                "text": "Random Forest",
+                "label": "ORG"
+            },
+            {
+                "text": "3",
+                "label": "CARDINAL"
+            }
+        ],
+        "key_phrases": [
+            "the random forest",
+            "starting location",
+            "linear models",
+            "t. kee",
+            "a trip",
+            "the results",
+            "regulated pricing",
+            "the\nfinal fare",
+            "that distance",
+            "a distributed\nbig data pipeline",
+            "ensemble methods",
+            "the\nmost reliable predictors",
+            "big data mobility analytics",
+            "a critical\ncomponent",
+            "the demand",
+            "https://www.mdpi.conv2413-8851/9/9/348\nfig",
+            "urban sciences",
+            "(1) n. yc",
+            "the raw trip duration",
+            "variable factor situations",
+            "all rf\nmodels",
+            "the high\nimportance",
+            "random forest",
+            "5\na references",
+            "e. interpretation",
+            "the pickup location",
+            "non-linear complexity",
+            "the importance",
+            "hyperparameter\nen sot tuning methods",
+            "regulated outcomes",
+            "rush hour features",
+            "all three research hypotheses",
+            "subway service disruptions",
+            "the non-linear noise",
+            "rf trip classification",
+            "uc-trip-record-data.page\nj",
+            "the\ndatabricks environment",
+            "24 million nyc taxi trips",
+            "l. commission",
+            "taxi\ndata",
+            "tle tip record data",
+            "w. k. ho",
+            "machine learning models",
+            "trip length",
+            "urban traffic",
+            "additional data sources",
+            "a comparative analysis",
+            "a strong baseline",
+            "spatial context",
+            "this project",
+            "the models",
+            "random forest ensembles",
+            "v. conclusion",
+            "the remaining variance",
+            "further improvements",
+            "weather\ndatasets",
+            "the findings",
+            "urban science",
+            "categoriza-\ntion",
+            "4. feature importance",
+            "trip duration",
+            "strong predictive per-\nformance",
+            "a solid\nbaseline"
+        ],
+        "region_counts": {
+            "Caption": 5,
+            "Body Text": 2,
+            "Title": 1
+        },
+        "region_text_mapping": [
+            {
+                "region_type": "Caption",
+                "text": "Figure 1. Cont.\n",
+                "bounding_box": {
+                    "x": 449,
+                    "y": 2034,
+                    "w": 190,
+                    "h": 54
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "bounding_box": {
+                    "x": 1095,
+                    "y": 1886,
+                    "w": 271,
+                    "h": 91
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "= A Phase\n—o=—B Phase\n",
+                "bounding_box": {
+                    "x": 1175,
+                    "y": 1791,
+                    "w": 188,
+                    "h": 84
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = $1.67\nB Phase Mean = 82.78\n",
+                "bounding_box": {
+                    "x": 1078,
+                    "y": 1450,
+                    "w": 268,
+                    "h": 80
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "om A Phase\n—c=— B Phase\n",
+                "bounding_box": {
+                    "x": 1153,
+                    "y": 1344,
+                    "w": 189,
+                    "h": 87
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "bounding_box": {
+                    "x": 457,
+                    "y": 1113,
+                    "w": 723,
+                    "h": 920
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "intervention for P3 and P1 and a level trend at baseline and an increasing therapeutic trend\nduring the intervention for P2. A stability envelope was applied to trend lines and showed\nthat the data we",
+                "bounding_box": {
+                    "x": 445,
+                    "y": 192,
+                    "w": 1128,
+                    "h": 910
+                }
+            },
+            {
+                "region_type": "Title",
+                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "bounding_box": {
+                    "x": 85,
+                    "y": 85,
+                    "w": 1484,
+                    "h": 75
+                }
+            }
+        ]
+    },
+    {
+        "filename": "Blue Prince Screenshot.png",
+        "page": 1,
+        "keywords": [
+            {
+                "word": "soil",
+                "score": 0.48038446141526137
+            },
+            {
+                "word": "survey",
+                "score": 0.48038446141526137
+            },
+            {
+                "word": "high",
+                "score": 0.16012815380508713
+            },
+            {
+                "word": "house",
+                "score": 0.16012815380508713
+            },
+            {
+                "word": "plot",
+                "score": 0.16012815380508713
+            },
+            {
+                "word": "room",
+                "score": 0.16012815380508713
+            },
+            {
+                "word": "worth",
+                "score": 0.16012815380508713
+            },
+            {
+                "word": "aa",
+                "score": 0.08006407690254357
+            },
+            {
+                "word": "appear",
+                "score": 0.08006407690254357
+            },
+            {
+                "word": "barren",
+                "score": 0.08006407690254357
+            },
+            {
+                "word": "benefit",
+                "score": 0.08006407690254357
+            },
+            {
+                "word": "bloom",
+                "score": 0.08006407690254357
+            },
+            {
+                "word": "capacity",
+                "score": 0.08006407690254357
+            },
+            {
+                "word": "cg",
+                "score": 0.08006407690254357
+            },
+            {
+                "word": "ci",
+                "score": 0.08006407690254357
+            }
+        ],
+        "named_entities": [
+            {
+                "text": "One",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "first",
+                "label": "ORDINAL"
+            },
+            {
+                "text": "P|",
+                "label": "ORG"
+            },
+            {
+                "text": "East",
+                "label": "LOC"
+            },
+            {
+                "text": "CG",
+                "label": "PRODUCT"
+            },
+            {
+                "text": "five",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "two weeks",
+                "label": "DATE"
+            },
+            {
+                "text": "Il",
+                "label": "PERSON"
+            },
+            {
+                "text": "FOOR",
+                "label": "ORG"
+            },
+            {
+                "text": "7 Greenhouse",
+                "label": "WORK_OF_ART"
+            }
+        ],
+        "key_phrases": [
+            "the rooms",
+            "such an undertaking",
+            "the extra data",
+            "this survey",
+            "a\ndirect relationship",
+            "ial x< barren\nsupport crop growth",
+            "[| [ |",
+            "some —t\ndifficulty",
+            "the promise",
+            "the survey",
+            "“7 greenhouse",
+            "the amount",
+            "the room position",
+            "a full survey",
+            "the soil survey",
+            "[ | ||",
+            "the house",
+            "| icy res u l j",
+            "each slot",
+            "all forty- ' cg\nfive plots",
+            "[| p|",
+            "soil quality",
+            "both the east and west wings",
+            "the soil’s capacity",
+            "no way",
+            "two weeks",
+            "the project",
+            "a survey",
+            "| survey",
+            "the higher ranks",
+            "high ground\n_ yields",
+            "the first tasks",
+            "the wings",
+            "the inconvenience \\",
+            "the various plots"
+        ],
+        "region_counts": {
+            "Caption": 5,
+            "Body Text": 2,
+            "Title": 1
+        },
+        "region_text_mapping": [
+            {
+                "region_type": "Caption",
+                "text": "Figure 1. Cont.\n",
+                "bounding_box": {
+                    "x": 449,
+                    "y": 2034,
+                    "w": 190,
+                    "h": 54
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "bounding_box": {
+                    "x": 1095,
+                    "y": 1886,
+                    "w": 271,
+                    "h": 91
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "= A Phase\n—o=—B Phase\n",
+                "bounding_box": {
+                    "x": 1175,
+                    "y": 1791,
+                    "w": 188,
+                    "h": 84
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = $1.67\nB Phase Mean = 82.78\n",
+                "bounding_box": {
+                    "x": 1078,
+                    "y": 1450,
+                    "w": 268,
+                    "h": 80
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "om A Phase\n—c=— B Phase\n",
+                "bounding_box": {
+                    "x": 1153,
+                    "y": 1344,
+                    "w": 189,
+                    "h": 87
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "bounding_box": {
+                    "x": 457,
+                    "y": 1113,
+                    "w": 723,
+                    "h": 920
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "intervention for P3 and P1 and a level trend at baseline and an increasing therapeutic trend\nduring the intervention for P2. A stability envelope was applied to trend lines and showed\nthat the data we",
+                "bounding_box": {
+                    "x": 445,
+                    "y": 192,
+                    "w": 1128,
+                    "h": 910
+                }
+            },
+            {
+                "region_type": "Title",
+                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "bounding_box": {
+                    "x": 85,
+                    "y": 85,
+                    "w": 1484,
+                    "h": 75
+                }
+            }
+        ]
+    },
+    {
+        "filename": "Photo of a page.jpeg",
+        "page": 1,
+        "keywords": [
+            {
+                "word": "couch",
+                "score": 0.23904572186687872
+            },
+            {
+                "word": "my",
+                "score": 0.23904572186687872
+            },
+            {
+                "word": "the",
+                "score": 0.23904572186687872
+            },
+            {
+                "word": "1057",
+                "score": 0.11952286093343936
+            },
+            {
+                "word": "2908",
+                "score": 0.11952286093343936
+            },
+            {
+                "word": "2h",
+                "score": 0.11952286093343936
+            },
+            {
+                "word": "40",
+                "score": 0.11952286093343936
+            },
+            {
+                "word": "66",
+                "score": 0.11952286093343936
+            },
+            {
+                "word": "aiid",
+                "score": 0.11952286093343936
+            },
+            {
+                "word": "belng",
+                "score": 0.11952286093343936
+            },
+            {
+                "word": "bg",
+                "score": 0.11952286093343936
+            },
+            {
+                "word": "bowl",
+                "score": 0.11952286093343936
+            },
+            {
+                "word": "bowlaremy",
+                "score": 0.11952286093343936
+            },
+            {
+                "word": "boy",
+                "score": 0.11952286093343936
+            },
+            {
+                "word": "cuip",
+                "score": 0.11952286093343936
+            }
+        ],
+        "named_entities": [
+            {
+                "text": "Sweird",
+                "label": "NORP"
+            },
+            {
+                "text": "2h",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "66",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "7",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "2908",
+                "label": "DATE"
+            },
+            {
+                "text": "time.to",
+                "label": "PERSON"
+            },
+            {
+                "text": "1057.40",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "7",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "ge",
+                "label": "ORG"
+            }
+        ],
+        "key_phrases": [
+            "on.the couch",
+            "formy socks",
+            "the house",
+            "nd ge ot\nsese bg sircrogd",
+            "the bowlaremy",
+            "a sweird thing",
+            "the couch",
+            "a nice bowl",
+            "seug nm whatis",
+            "greaiést weapon",
+            "aiid keys",
+            "the boy",
+            "onda maian wo ee qriargr",
+            "\", 1057.40 go",
+            "feed hea"
+        ],
+        "region_counts": {
+            "Caption": 5,
+            "Body Text": 2,
+            "Title": 1
+        },
+        "region_text_mapping": [
+            {
+                "region_type": "Caption",
+                "text": "Figure 1. Cont.\n",
+                "bounding_box": {
+                    "x": 449,
+                    "y": 2034,
+                    "w": 190,
+                    "h": 54
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "bounding_box": {
+                    "x": 1095,
+                    "y": 1886,
+                    "w": 271,
+                    "h": 91
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "= A Phase\n—o=—B Phase\n",
+                "bounding_box": {
+                    "x": 1175,
+                    "y": 1791,
+                    "w": 188,
+                    "h": 84
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = $1.67\nB Phase Mean = 82.78\n",
+                "bounding_box": {
+                    "x": 1078,
+                    "y": 1450,
+                    "w": 268,
+                    "h": 80
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "om A Phase\n—c=— B Phase\n",
+                "bounding_box": {
+                    "x": 1153,
+                    "y": 1344,
+                    "w": 189,
+                    "h": 87
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "bounding_box": {
+                    "x": 457,
+                    "y": 1113,
+                    "w": 723,
+                    "h": 920
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "intervention for P3 and P1 and a level trend at baseline and an increasing therapeutic trend\nduring the intervention for P2. A stability envelope was applied to trend lines and showed\nthat the data we",
+                "bounding_box": {
+                    "x": 445,
+                    "y": 192,
+                    "w": 1128,
+                    "h": 910
+                }
+            },
+            {
+                "region_type": "Title",
+                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "bounding_box": {
+                    "x": 85,
+                    "y": 85,
+                    "w": 1484,
+                    "h": 75
+                }
+            }
+        ]
+    },
+    {
+        "filename": "Scanned Receipt.jpg",
+        "page": 1,
+        "keywords": [
+            {
+                "word": "rm",
+                "score": 0.40613846605344767
+            },
+            {
+                "word": "00",
+                "score": 0.30460384954008574
+            },
+            {
+                "word": "03",
+                "score": 0.20306923302672383
+            },
+            {
+                "word": "gst",
+                "score": 0.20306923302672383
+            },
+            {
+                "word": "000397606912",
+                "score": 0.10153461651336192
+            },
+            {
+                "word": "01",
+                "score": 0.10153461651336192
+            },
+            {
+                "word": "05",
+                "score": 0.10153461651336192
+            },
+            {
+                "word": "14",
+                "score": 0.10153461651336192
+            },
+            {
+                "word": "168",
+                "score": 0.10153461651336192
+            },
+            {
+                "word": "2018",
+                "score": 0.10153461651336192
+            },
+            {
+                "word": "21423855",
+                "score": 0.10153461651336192
+            },
+            {
+                "word": "35",
+                "score": 0.10153461651336192
+            },
+            {
+                "word": "55100",
+                "score": 0.10153461651336192
+            },
+            {
+                "word": "70",
+                "score": 0.10153461651336192
+            },
+            {
+                "word": "750",
+                "score": 0.10153461651336192
+            }
+        ],
+        "named_entities": [
+            {
+                "text": "| LOT:2,70.00",
+                "label": "PERSON"
+            },
+            {
+                "text": "2",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "JALANIBUKIT",
+                "label": "PERSON"
+            },
+            {
+                "text": "9°\n| Tél: 03:21423855.",
+                "label": "QUANTITY"
+            },
+            {
+                "text": "Wsafeveesssninnensennentecerctaieeesoeteces",
+                "label": "PRODUCT"
+            },
+            {
+                "text": "14/01/2018",
+                "label": "DATE"
+            },
+            {
+                "text": "05:03:35 PM",
+                "label": "TIME"
+            },
+            {
+                "text": "TOL",
+                "label": "ORG"
+            },
+            {
+                "text": "Ns",
+                "label": "ORG"
+            },
+            {
+                "text": "750.00",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "2 Q00h\nf.- GST Surimiary",
+                "label": "WORK_OF_ART"
+            },
+            {
+                "text": ".-Amount(RM",
+                "label": "PERSON"
+            }
+        ],
+        "key_phrases": [
+            "ed\n|",
+            "a -\n’ 55100,kualalumpur",
+            "|\n|",
+            "to1005445\n\nj",
+            "rm rm code\n| - bno",
+            "tol oe |\nns dager ce dene tees",
+            "ieee neltesee\n\nbo qt",
+            ", jalanibukit",
+            "-780,00\"sri\nene"
+        ],
+        "region_counts": {
+            "Caption": 5,
+            "Body Text": 2,
+            "Title": 1
+        },
+        "region_text_mapping": [
+            {
+                "region_type": "Caption",
+                "text": "Figure 1. Cont.\n",
+                "bounding_box": {
+                    "x": 449,
+                    "y": 2034,
+                    "w": 190,
+                    "h": 54
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "bounding_box": {
+                    "x": 1095,
+                    "y": 1886,
+                    "w": 271,
+                    "h": 91
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "= A Phase\n—o=—B Phase\n",
+                "bounding_box": {
+                    "x": 1175,
+                    "y": 1791,
+                    "w": 188,
+                    "h": 84
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = $1.67\nB Phase Mean = 82.78\n",
+                "bounding_box": {
+                    "x": 1078,
+                    "y": 1450,
+                    "w": 268,
+                    "h": 80
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "om A Phase\n—c=— B Phase\n",
+                "bounding_box": {
+                    "x": 1153,
+                    "y": 1344,
+                    "w": 189,
+                    "h": 87
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "bounding_box": {
+                    "x": 457,
+                    "y": 1113,
+                    "w": 723,
+                    "h": 920
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "intervention for P3 and P1 and a level trend at baseline and an increasing therapeutic trend\nduring the intervention for P2. A stability envelope was applied to trend lines and showed\nthat the data we",
+                "bounding_box": {
+                    "x": 445,
+                    "y": 192,
+                    "w": 1128,
+                    "h": 910
+                }
+            },
+            {
+                "region_type": "Title",
+                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "bounding_box": {
+                    "x": 85,
+                    "y": 85,
+                    "w": 1484,
+                    "h": 75
+                }
+            }
+        ]
+    },
+    {
+        "filename": "Using_Behavioural_Skills_Training_with_Healthcare_page_2.pdf",
+        "page": 1,
+        "keywords": [
+            {
+                "word": "change",
+                "score": 0.29077680138805734
+            },
+            {
+                "word": "intervention",
+                "score": 0.29077680138805734
+            },
+            {
+                "word": "mean",
+                "score": 0.29077680138805734
+            },
+            {
+                "word": "phase",
+                "score": 0.29077680138805734
+            },
+            {
+                "word": "baseline",
+                "score": 0.22615973441293347
+            },
+            {
+                "word": "level",
+                "score": 0.22615973441293347
+            },
+            {
+                "word": "condition",
+                "score": 0.19385120092537156
+            },
+            {
+                "word": "p3",
+                "score": 0.19385120092537156
+            },
+            {
+                "word": "range",
+                "score": 0.19385120092537156
+            },
+            {
+                "word": "score",
+                "score": 0.19385120092537156
+            },
+            {
+                "word": "100",
+                "score": 0.16154266743780962
+            },
+            {
+                "word": "datum",
+                "score": 0.16154266743780962
+            },
+            {
+                "word": "p1",
+                "score": 0.16154266743780962
+            },
+            {
+                "word": "p2",
+                "score": 0.16154266743780962
+            },
+            {
+                "word": "trend",
+                "score": 0.16154266743780962
+            }
+        ],
+        "named_entities": [
+            {
+                "text": "Behav",
+                "label": "PERSON"
+            },
+            {
+                "text": "Sci",
+                "label": "PERSON"
+            },
+            {
+                "text": "2025",
+                "label": "DATE"
+            },
+            {
+                "text": "15",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "870 8of21",
+                "label": "QUANTITY"
+            },
+            {
+                "text": "P3 and P1",
+                "label": "WORK_OF_ART"
+            },
+            {
+                "text": "P2",
+                "label": "DATE"
+            },
+            {
+                "text": "P3",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "P1",
+                "label": "PRODUCT"
+            },
+            {
+                "text": "P2",
+                "label": "DATE"
+            },
+            {
+                "text": "51.67%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "55-45%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "83.33%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "100-65%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "100%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "P1’s",
+                "label": "ORG"
+            },
+            {
+                "text": "36.8%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "45-35%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "80%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "100-65%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "100%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "P2",
+                "label": "PERSON"
+            },
+            {
+                "text": "40.71%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "45-35%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "82%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "85-65%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "75%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "Between-Condition Analysis: Evaluation",
+                "label": "ORG"
+            },
+            {
+                "text": "three",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "P2",
+                "label": "DATE"
+            },
+            {
+                "text": "P3 and P1",
+                "label": "WORK_OF_ART"
+            },
+            {
+                "text": "P3",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "P1’s",
+                "label": "ORG"
+            },
+            {
+                "text": "+40",
+                "label": "PERSON"
+            },
+            {
+                "text": "P2’s",
+                "label": "ORG"
+            },
+            {
+                "text": "+36.29",
+                "label": "DATE"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "2",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "100%",
+                "label": "PERCENT"
+            },
+            {
+                "text": "Scruggs & Mastropicri",
+                "label": "ORG"
+            },
+            {
+                "text": "1998",
+                "label": "DATE"
+            },
+            {
+                "text": "the Supplementary Materials, Tables",
+                "label": "ORG"
+            },
+            {
+                "text": "94 1",
+                "label": "DATE"
+            },
+            {
+                "text": "84",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "64",
+                "label": "MONEY"
+            },
+            {
+                "text": "3",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "3",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "54 l\n1",
+                "label": "DATE"
+            },
+            {
+                "text": "1.67",
+                "label": "MONEY"
+            },
+            {
+                "text": "82.78",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "34 4",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "94",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "P21",
+                "label": "ORG"
+            },
+            {
+                "text": "2 84",
+                "label": "DATE"
+            },
+            {
+                "text": "3",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "3",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "54",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "36.80",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "44",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "80.00",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "34",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Cont",
+                "label": "GPE"
+            }
+        ],
+        "key_phrases": [
+            "all participants",
+            "visual analysis data",
+            "no overlapping data",
+            "the supplementary materials",
+            "oa phase",
+            "a stability envelope",
+            "the full set",
+            "the behaviour change",
+            "an accelerating, improving trend",
+            "870 8of21\nintervention",
+            "a positive improving behaviour change",
+            "all\nlevel change measures",
+            "the data",
+            "$1.67\n44 l b phase",
+            "all three partic-\nipants",
+            "a visual display",
+            "both phases",
+            "baseline to 80%",
+            "p1’s scores",
+            "the baseline",
+            "any\nparticipants",
+            "p2’s mean accuracy scores",
+            "the relative level change",
+            "a level trend",
+            "a change",
+            "a phase\n3 t",
+            "b phase\nb",
+            "8b phase",
+            "p3’s mean accuracy scores",
+            "median level change",
+            "a level,\ndeteriorating trend",
+            "both conditions",
+            "p2’s scores",
+            "54 l",
+            "84 |\nfi",
+            "p3’s\nscores",
+            "the intervention",
+            "mean level change",
+            "absolute level change",
+            "p1’s mean accuracy scores",
+            "an increasing therapeutic trend",
+            "between-condition analysis"
+        ],
+        "region_counts": {
+            "Caption": 5,
+            "Body Text": 2,
+            "Title": 1
+        },
+        "region_text_mapping": [
+            {
+                "region_type": "Caption",
+                "text": "Figure 1. Cont.\n",
+                "bounding_box": {
+                    "x": 449,
+                    "y": 2034,
+                    "w": 190,
+                    "h": 54
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = 36.80\nB Phase Mean = 80.00\n",
+                "bounding_box": {
+                    "x": 1095,
+                    "y": 1886,
+                    "w": 271,
+                    "h": 91
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "= A Phase\n—o=—B Phase\n",
+                "bounding_box": {
+                    "x": 1175,
+                    "y": 1791,
+                    "w": 188,
+                    "h": 84
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "A Phase Mean = $1.67\nB Phase Mean = 82.78\n",
+                "bounding_box": {
+                    "x": 1078,
+                    "y": 1450,
+                    "w": 268,
+                    "h": 80
+                }
+            },
+            {
+                "region_type": "Caption",
+                "text": "om A Phase\n—c=— B Phase\n",
+                "bounding_box": {
+                    "x": 1153,
+                    "y": 1344,
+                    "w": 189,
+                    "h": 87
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "I\n94 1\nI\n» 84 I\nFI I\n3 74 !\n= I\n£ 64 t :\n8 ! -\n6 54 |\n1 A Phase\n44 1 B Phase\n—\n34 ._.|—_ ss os ot ot ot\n'\n94 !\nI\ne 84 I\n3 I\nS 74 '\n= I\nE 64 !\n8 I\nB54 !\n° 1 APhas\n44 | B Pha:\n34 > oo\n",
+                "bounding_box": {
+                    "x": 457,
+                    "y": 1113,
+                    "w": 723,
+                    "h": 920
+                }
+            },
+            {
+                "region_type": "Body Text",
+                "text": "intervention for P3 and P1 and a level trend at baseline and an increasing therapeutic trend\nduring the intervention for P2. A stability envelope was applied to trend lines and showed\nthat the data we",
+                "bounding_box": {
+                    "x": 445,
+                    "y": 192,
+                    "w": 1128,
+                    "h": 910
+                }
+            },
+            {
+                "region_type": "Title",
+                "text": "Behav. Sci, 2025, 15, 870 8of 21\n",
+                "bounding_box": {
+                    "x": 85,
+                    "y": 85,
+                    "w": 1484,
+                    "h": 75
+                }
+            }
+        ]
+    }
+]
